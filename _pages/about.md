@@ -18,7 +18,7 @@ My research interest spans across question answering systems, structured knowled
 
 Gap year at Microsoft Research
 ======
-Prior to CMU, I took a gap year and became an Assistant Researcher at [Microsoft Research (Asia)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) through the Star Bridge Program. My focus then was understanding and leverage structured knowledge such as tables, via [large-scale pre-training](https://dl.acm.org/doi/abs/10.1145/3447548.3467434) or [complex question answering and/or data-to-text generation](https://arxiv.org/abs/2108.06712). 
+Prior to CMU, I took a gap year and became an Assistant Researcher at [Microsoft Research (Asia)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) through the Star Bridge Program. My focus then was understanding and leveraging structured knowledge such as tables, via [large-scale pre-training](https://dl.acm.org/doi/abs/10.1145/3447548.3467434) or [complex question answering and/or data-to-text generation](https://arxiv.org/abs/2108.06712). 
 
 
 Other NLP Research Experience 
@@ -29,7 +29,7 @@ During undergrad years, I was also selected as a student researcher by the [Tenc
 Life As An Undergrad
 ------
 I have received my B.S. in Mathematics from [Beijing Normal University](https://english.bnu.edu.cn/), while my explorations are a bit more diverse than this. 
-I have studied macro-econominal models for Central Bank Digital Currency (CBDC) at [People's Bank of China](https://en.wikipedia.org/wiki/People%27s_Bank_of_China); configured human visual coding pathways using self-organized maps at [IDG/McGovern Institute for Brain Research](http://bilab.bnu.edu.cn/); captained the genetic engineering for an antibiotic-free glucose production method and presented at the [iGEM](https://igem.org/) conference; and, examined Chinese language models in terms of world and linguistic knowledge acquisition at [Institute of Chinese Information Processing](https://english.bnu.edu.cn/schoolsdepartments/yjs/113325.htm).
+I have studied macro-economical models for Central Bank Digital Currency (CBDC) at [People's Bank of China](https://en.wikipedia.org/wiki/People%27s_Bank_of_China); configured human visual coding pathways using self-organized maps at [IDG/McGovern Institute for Brain Research](http://bilab.bnu.edu.cn/); captained the genetic engineering for an antibiotic-free glucose production method and presented at the [iGEM](https://igem.org/) conference; also, examined Chinese language models in terms of world and linguistic knowledge acquisition at [Institute of Chinese Information Processing](https://english.bnu.edu.cn/schoolsdepartments/yjs/113325.htm).
 
 
 p.s.
