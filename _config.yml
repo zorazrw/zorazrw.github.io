@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Zora (Zhiruo) Wang"
   avatar           : "zora_avatar.jpg"
-  bio              : "Master of Language Technology, LTI@CMU"
+  bio              : "MLT, LTI@CMU"
   location         : "Pittsburgh, PA"
   employer         :
-  pubmed           : ""
+  pubmed           : # ""
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=0MTIlN4AAAAJ"
   email            : "zhiruow@andrew.cmu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/zora-zhiruo-wang-9b61ba179/"
-  orcid            : ""
+  orcid            : # ""
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          : # ""
   vine             :
   weibo            :
   xing             :
