@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ms."
+title                    : "Zhiruo Wang"
 title_separator          : "-"
-name                     : &name "Zora (Zhiruo) Wang, 王芷若"
+name                     : &name "Zhiruo Wang, 王芷若"
 description              : &description "Master of Language Technologies, LTI@CMU"
-url                      : https://zorazrw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://zorazrw.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zorazrw.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
