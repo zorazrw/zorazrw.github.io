@@ -10,11 +10,18 @@ redirect_from:
 
 Welcome to Zora's home on the web :)
 
-Latest Update (March 2022) 
+
+News :fire:
+======
+[03/15/2022] Our Multilingual CoNaLa data benchmark for the multilingual code generation task is publicly available [here](http://zorazrw.github.io/files/multilingual_conala.pdf). Check it out! 
+
+
+@CMU
 ======
 I am currently continuing my graduate study at the [Language Technologies Institute](https://www.lti.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), in the [Master of Language Technologies](https://lti.cs.cmu.edu/mlt/) program. 
 
-My research interest spans across question answering systems, structured knowledge learning, to general techniques about language models. I am fond of problems motivated by the characteristics of datasets and models, more from a linguistic perspective than on the training side. 
+My research interest spans across multilingual language udnerstanding, reasoning in question answering systems, structured knowledge learning, to general techniques about language models. I am fond of problems motivated by the characteristics of datasets and models, more from a linguistic perspective than on the training side. 
+
 
 Gap year at Microsoft Research
 ======
@@ -35,7 +42,7 @@ I have studied macro-economical models for Central Bank Digital Currency (CBDC) 
 I Love My Name
 ------
 My name in Chinese is 王芷若, which reads as Zhiruo Wang in [Hanyu Pinyin](https://en.wikipedia.org/wiki/Pinyin). It is usually hard for non-native speakers to pronounce, so you can also call me Zora (as ZR is similar to Zhi Ruo). 
-I love my name, especially in Chinese characters, since it has a more beautiful meaning than in English alphabets. 芷 stands for 白芷 (Angelica dahurica) and 若 stands for 杜若 (Pollia japonica), which are two kinds of Chinese herbal medicine. Also, [芷若](https://baike.baidu.hk/item/%E8%8A%B7%E8%8B%A5/6244995) is a beautiful vanilla :herb:
+I love my name, especially in Chinese characters, since it has a more beautiful meaning than in English alphabets. 芷 stands for 白芷 (Angelica dahurica) and 若 stands for 杜若 (Pollia japonica), which are two kinds of Chinese herbal medicine. Also, [芷若](https://baike.baidu.hk/item/%E8%8A%B7%E8%8B%A5/6244995) is a beautiful vanilla. 
 
 
 p.s.
