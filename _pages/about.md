@@ -11,7 +11,7 @@ redirect_from:
 Welcome to Zora's home on the web :)
 
 
-News :fire:
+News
 ======
 [03/15/2022] Our Multilingual CoNaLa data benchmark for the multilingual code generation task is publicly available [here](http://zorazrw.github.io/files/multilingual_conala.pdf). Check it out! 
 
