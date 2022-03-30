@@ -20,7 +20,7 @@ News
 ======
 I am currently continuing my graduate study at the [Language Technologies Institute](https://www.lti.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), in the [Master of Language Technologies](https://lti.cs.cmu.edu/mlt/) program. 
 
-My research interest spans across multilingual language udnerstanding, reasoning in question answering systems, structured knowledge learning, to general techniques about language models. I am fond of problems motivated by the characteristics of datasets and models, more from a linguistic perspective than on the training side. 
+My research interest spans across multi- natural/programming language learning, semantic parsing, reasoning in question answering systems, structured knowledge learning, to general techniques about language models. I am fond of problems motivated by the characteristics of datasets and models, more from a linguistic perspective than on the training side. 
 
 
 Gap year at Microsoft Research
