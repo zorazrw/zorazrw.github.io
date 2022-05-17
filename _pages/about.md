@@ -13,23 +13,23 @@ Welcome to Zora's home on the web :)
 
 News
 ======
-[03/15/2022] Our Multilingual CoNaLa data benchmark for the multilingual code generation task is publicly available [here](http://zorazrw.github.io/files/multilingual_conala.pdf). Check it out! 
+- Doing a summer internship with the Conversational AI team at Amazon Alexa AI. Excited to be working with Dilek Hakkani-Tur and Mahdi Namazifar.
+- Our work on examining table-specific model design for NQ-table retrieval has been accepted to the SUKI workshop, NAACL2022. I plan to travel to Seattle in July and attend the conference in person. Looking forward to see you there.
+- Our paper "HiTab: A Hierarchical Table Dataset for Question Answering and Natural Language Generation" has been accepted to ACL2022. Check out the data and code [here](https://github.com/microsoft/HiTab) if you're interested.
+- Our Multilingual CoNaLa data benchmark for the multilingual code generation task is publicly available [here](https://arxiv.org/pdf/2203.08388.pdf). Check it out! 
 
 
 @CMU
 ======
 I am currently continuing my graduate study at the [Language Technologies Institute](https://www.lti.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), in the [Master of Language Technologies](https://lti.cs.cmu.edu/mlt/) program. 
 
-My research interest spans across multi- natural/programming language learning, semantic parsing, reasoning in question answering systems, structured knowledge learning, to general techniques about language models. I am fond of problems motivated by the characteristics of datasets and models, more from a linguistic perspective than on the training side. 
+My research interest spans across multi- natural/programming language learning, QA/Dialogue systems, structured knowledge learning, to general techniques about language models. I am fond of problems motivated by the characteristics of datasets and models, more from a linguistic perspective than on the training side. 
 
 
-Gap year at Microsoft Research
-======
+NLP Research Experience
+------
 Prior to CMU, I took a gap year and became an Assistant Researcher at [Microsoft Research (Asia)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) through the Star Bridge Program. My focus then was understanding and leveraging structured knowledge such as tables, via [large-scale pre-training](https://dl.acm.org/doi/abs/10.1145/3447548.3467434) or [complex question answering and/or data-to-text generation](https://arxiv.org/abs/2108.06712). 
 
-
-Other NLP Research Experience 
-------
 During undergrad years, I was also selected as a student researcher by the [Tencent](https://www.tencent.com/en-us) Rhino-Bird Talent Cultivation Program. I was lucky to explore both offices at Shenzhen and Beijing in China, also, work on interesting projects about [knowledge injection](https://ojs.aaai.org/index.php/AAAI/article/view/5681) and [adaptive inference via self-distillation](https://arxiv.org/abs/2004.02178). 
 
 
