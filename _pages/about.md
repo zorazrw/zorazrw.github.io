@@ -14,7 +14,7 @@ Welcome to Zora's home on the web :)
 News
 ======
 - Doing a summer internship with the Conversational AI team at Amazon Alexa AI. Excited to be working with Dilek Hakkani-Tur and Mahdi Namazifar.
-- Our work on [examining table-specific model design for NQ-table retrieval](http://arxiv.org/abs/2205.09843) has been accepted to the SUKI workshop, NAACL 2022. I plan to travel to Seattle in July and attend the conference in person. Looking forward to seeing you there.
+- Our [work](http://arxiv.org/abs/2205.09843) on examining table-specific model design for NQ-table retrieval has been accepted to the SUKI workshop, NAACL 2022. I plan to travel to Seattle in July and attend the conference in person. Looking forward to seeing you there.
 - Our paper "HiTab: A Hierarchical Table Dataset for Question Answering and Natural Language Generation" has been accepted to ACL 2022. Check out the data and code [here](https://github.com/microsoft/HiTab) if you're interested.
 - Our Multilingual CoNaLa data benchmark for the multilingual code generation task is publicly available [here](https://arxiv.org/pdf/2203.08388.pdf). Check it out! 
 
