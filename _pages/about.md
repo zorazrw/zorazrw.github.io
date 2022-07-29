@@ -13,6 +13,7 @@ Welcome to Zora's home on the web :)
 
 News
 ======
+- Application for the Star Bridge program has opened. Take a look at [our retrospect](https://mp.weixin.qq.com/s/cf_8Wz1uHZBoyzJQFpDuXQ) if you are interested in a gap year at Microsoft Research, Asia.
 - Doing a summer internship with the Conversational AI team at Amazon Alexa AI. Excited to be working with Dilek Hakkani-Tur and Mahdi Namazifar.
 - Our [work](http://arxiv.org/abs/2205.09843) on examining table-specific model design for NQ-table retrieval has been accepted to the SUKI workshop, NAACL 2022. I plan to travel to Seattle in July and attend the conference in person. Looking forward to seeing you there.
 - Our paper "HiTab: A Hierarchical Table Dataset for Question Answering and Natural Language Generation" has been accepted to ACL 2022. Check out the data and code [here](https://github.com/microsoft/HiTab) if you're interested.
