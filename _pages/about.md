@@ -14,10 +14,21 @@ Welcome to Zora's home on the web :)
 News
 ======
 - Application for the Star Bridge program has opened. Take a look at [our retrospect](https://mp.weixin.qq.com/s/cf_8Wz1uHZBoyzJQFpDuXQ) if you are interested in a gap year at Microsoft Research, Asia.
-- Doing a summer internship with the Conversational AI team at Amazon Alexa AI. Excited to be working with Dilek Hakkani-Tur and Mahdi Namazifar.
+- Did a summer internship with the Conversational AI team at Amazon Alexa AI. Excited to be working with Dilek Hakkani-Tur and Mahdi Namazifar.
 - Our [work](http://arxiv.org/abs/2205.09843) on examining table-specific model design for NQ-table retrieval has been accepted to the SUKI workshop, NAACL 2022. I plan to travel to Seattle in July and attend the conference in person. Looking forward to seeing you there.
 - Our paper "HiTab: A Hierarchical Table Dataset for Question Answering and Natural Language Generation" has been accepted to ACL 2022. Check out the data and code [here](https://github.com/microsoft/HiTab) if you're interested.
 - Our Multilingual CoNaLa data benchmark for the multilingual code generation task is publicly available [here](https://arxiv.org/pdf/2203.08388.pdf). Check it out! 
+
+
+Academic Services
+======
+- Reviewer: [EACL 2023](https://2023.eacl.org/), main conference (Question Answering track)
+- Reviewer: [AAAI 2023](https://aaai.org/Conferences/AAAI-23/), main conference
+- Reviewer: NeurIPS 2022, Table Representation Learning ([TRL](https://table-representation-learning.github.io/)) workshop
+- Teaching Assistant for [11-711: Advanced Natural Language Processing](http://www.phontron.com/class/anlp2022/)
+- Organizing Committee: [Student Research Symposium](https://lti.cs.cmu.edu/SRS-2022), Language Technologies Institute (CMU), 2022
+- Reviewer: [EMNLP 2022](https://2022.emnlp.org/), main conference
+- Reviewer: NAACL 2022, Structured and Unstructured Knowledge Integration ([SUKI](https://suki-workshop.github.io/)) workshop
 
 
 @CMU
