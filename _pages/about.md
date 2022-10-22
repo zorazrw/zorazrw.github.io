@@ -27,7 +27,7 @@ Academic Services
 - Reviewer: NeurIPS 2022, Table Representation Learning ([TRL](https://table-representation-learning.github.io/)) workshop
 - Teaching Assistant for [11-711: Advanced Natural Language Processing](http://www.phontron.com/class/anlp2022/)
 - Organizing Committee: [Student Research Symposium](https://lti.cs.cmu.edu/SRS-2022), Language Technologies Institute (CMU), 2022
-- Reviewer: [EMNLP 2022](https://2022.emnlp.org/), main conference
+- Reviewer: [EMNLP 2022](https://2022.emnlp.org/), main conference (Unsupervised and Weakly-Supervised Methods, Language Modeling and Analysis, QA)
 - Reviewer: NAACL 2022, Structured and Unstructured Knowledge Integration ([SUKI](https://suki-workshop.github.io/)) workshop
 
 
