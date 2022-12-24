@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhiruo Wang"
+title                    : "Zhiruo Wang, 王芷若"
 title_separator          : "-"
 name                     : &name "Zhiruo Wang, 王芷若"
 description              : &description "Master of Language Technologies, LTI@CMU"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zora (Zhiruo) Wang"
+  name             : "Zhiruo Wang / Zora"
   avatar           : "w-cat.jpg"
   bio              : "MLT, LTI@CMU"
   location         : "Pittsburgh, PA"
