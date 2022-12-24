@@ -13,29 +13,16 @@ Welcome to Zora's home on the web :)
 
 News
 ======
-- Application for the Star Bridge program has opened. Take a look at [our retrospect](https://mp.weixin.qq.com/s/cf_8Wz1uHZBoyzJQFpDuXQ) if you are interested in a gap year at Microsoft Research, Asia.
-- Did a summer internship with the Conversational AI team at Amazon Alexa AI. Excited to be working with Dilek Hakkani-Tur and Mahdi Namazifar.
-- Our [work](http://arxiv.org/abs/2205.09843) on examining table-specific model design for NQ-table retrieval has been accepted to the SUKI workshop, NAACL 2022. I plan to travel to Seattle in July and attend the conference in person. Looking forward to seeing you there.
-- Our paper "HiTab: A Hierarchical Table Dataset for Question Answering and Natural Language Generation" has been accepted to ACL 2022. Check out the data and code [here](https://github.com/microsoft/HiTab) if you're interested.
-- Our Multilingual CoNaLa data benchmark for the multilingual code generation task is publicly available [here](https://arxiv.org/pdf/2203.08388.pdf). Check it out! 
-
-
-Academic Services
-======
-- Reviewer: [EACL 2023](https://2023.eacl.org/), main conference (Question Answering track)
-- Reviewer: [AAAI 2023](https://aaai.org/Conferences/AAAI-23/), main conference
-- Reviewer: NeurIPS 2022, Table Representation Learning ([TRL](https://table-representation-learning.github.io/)) workshop
-- Teaching Assistant for [11-711: Advanced Natural Language Processing](http://www.phontron.com/class/anlp2022/)
-- Organizing Committee: [Student Research Symposium](https://lti.cs.cmu.edu/SRS-2022), Language Technologies Institute (CMU), 2022
-- Reviewer: [EMNLP 2022](https://2022.emnlp.org/), main conference (Unsupervised and Weakly-Supervised Methods, Language Modeling and Analysis, QA)
-- Reviewer: NAACL 2022, Structured and Unstructured Knowledge Integration ([SUKI](https://suki-workshop.github.io/)) workshop
+- New Preprint ⭐ __ODEX__ ⭐ about <ins>o</ins>pen-<ins>d</ins>omain code generation with <ins>ex</ins>ecution-based evaluation ([arXiv](https://arxiv.org/pdf/2212.10481.pdf))
+- Application for the Star Bridge program has opened. Take a look at [our retrospect](https://mp.weixin.qq.com/s/cf_8Wz1uHZBoyzJQFpDuXQ) if you are interested in a gap year at _Microsoft Research_, Asia.
+- Summer internship at _Amazon Alexa AI_ working with [Dilek Hakkani-Tur](https://www.linkedin.com/in/dilek-hakkani-tur-9517543/), [Mahdi Namazifar](https://www.linkedin.com/in/namazifar/), and [Devamanyu Hazarika](https://www.devamanyu.com/) from the Conversational AI team.
 
 
 @CMU
 ======
 I am currently continuing my graduate study at the [Language Technologies Institute](https://www.lti.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), in the [Master of Language Technologies](https://lti.cs.cmu.edu/mlt/) program. 
 
-My research interest spans across multi- natural/programming language learning, QA/Dialogue systems, structured knowledge learning, to general techniques about language models. I am fond of problems motivated by the characteristics of datasets and models, more from a linguistic perspective than on the training side. 
+My primary research interest is to __build language models with interpretable and generalizable reasoning skills__, by generating verifiable programs (e.g., SQL, logical forms, Python), grounding on supporting contexts (unstructured Wikipedia text, structured tables), and explore increasingly diverse contexts with broader functionalities. 
 
 
 NLP Research Experience
@@ -51,14 +38,23 @@ I have received my B.S. in Mathematics from [Beijing Normal University](https://
 I have studied macro-economical models for Central Bank Digital Currency (CBDC) at [People's Bank of China](https://en.wikipedia.org/wiki/People%27s_Bank_of_China); configured human visual coding pathways using self-organized maps at [IDG/McGovern Institute for Brain Research](http://bilab.bnu.edu.cn/); captained the genetic engineering for an antibiotic-free glucose production method and presented at the [iGEM](https://igem.org/) conference; also, examined Chinese language models in terms of world and linguistic knowledge acquisition at [Institute of Chinese Information Processing](https://english.bnu.edu.cn/schoolsdepartments/yjs/113325.htm).
 
 
+
+Academic Services
+======
+- Reviewer: [EACL 2023](https://2023.eacl.org/), main conference (Question Answering track)
+- Reviewer: [AAAI 2023](https://aaai.org/Conferences/AAAI-23/), main conference
+- Reviewer: NeurIPS 2022, Table Representation Learning ([TRL](https://table-representation-learning.github.io/)) workshop
+- Teaching Assistant for [11-711: Advanced Natural Language Processing](http://www.phontron.com/class/anlp2022/)
+- Organizing Committee: [Student Research Symposium](https://lti.cs.cmu.edu/SRS-2022), Language Technologies Institute (CMU), 2022
+- Reviewer: [EMNLP 2022](https://2022.emnlp.org/), main conference (Unsupervised and Weakly-Supervised Methods, Language Modeling and Analysis, QA)
+- Reviewer: NAACL 2022, Structured and Unstructured Knowledge Integration ([SUKI](https://suki-workshop.github.io/)) workshop
+
+
 I Love My Name
 ------
 My name in Chinese is 王芷若, which reads as Zhiruo Wang in [Hanyu Pinyin](https://en.wikipedia.org/wiki/Pinyin). It is usually hard for non-native speakers to pronounce, so you can also call me Zora (as ZR is similar to Zhi Ruo). 
 I love my name, especially in Chinese characters, since it has a more beautiful meaning than in English alphabets. 芷 stands for 白芷 (Angelica dahurica) and 若 stands for 杜若 (Pollia japonica), which are two kinds of Chinese herbal medicine. Also, [芷若](https://baike.baidu.hk/item/%E8%8A%B7%E8%8B%A5/6244995) is a beautiful vanilla. 
 
 
-p.s.
-------
-Welcome to apply for the Star Bridge Program at MSRA and/or the Rhino-Bird Talent Cultivation Program at Tencent. I'm happy to give you a referral if there are suitable positions. 
 
 Feel free to reach out if you have any questions :)
