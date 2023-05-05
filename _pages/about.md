@@ -13,9 +13,11 @@ Welcome to Zora's home on the web :)
 
 News
 ======
-- New Preprint ⭐ __ODEX__ ⭐ about <ins>o</ins>pen-<ins>d</ins>omain code generation with <ins>ex</ins>ecution-based evaluation ([arXiv](https://arxiv.org/pdf/2212.10481.pdf))
+- We just released 🌟 __StarCoder__, an 15B open-source code generation model with SoTA performance, super happy to have contributed to it. [(BigCode)](https://huggingface.co/bigcode)
+- Gave a talk about ODEX at the Machine Learning Methods in Software Engineering [(video)](https://www.youtube.com/watch?v=xQxGyzcw7H4) hosted by JetBrains Research Team. Feel free to check it out! 🙌
+- Decided to continue my PhD at Language Technologies Institute @ Carnegie Mellon University 🎉
+- New Preprint: __ODEX__ about <ins>o</ins>pen-<ins>d</ins>omain code generation with <ins>ex</ins>ecution-based evaluation ([arXiv](https://arxiv.org/pdf/2212.10481.pdf))
 - Application for the Star Bridge program has opened. Take a look at [our retrospect](https://mp.weixin.qq.com/s/cf_8Wz1uHZBoyzJQFpDuXQ) if you are interested in a gap year at _Microsoft Research_, Asia.
-- Summer internship at _Amazon Alexa AI_ working with [Dilek Hakkani-Tur](https://www.linkedin.com/in/dilek-hakkani-tur-9517543/), [Mahdi Namazifar](https://www.linkedin.com/in/namazifar/), and [Devamanyu Hazarika](https://www.devamanyu.com/) from the Conversational AI team.
 
 
 @CMU
