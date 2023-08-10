@@ -13,12 +13,11 @@ Welcome to Zora's home on the web :)
 
 News
 ======
+- We released [SPAE (Semantic Pyramid AutoEncoder)](https://arxiv.org/pdf/2306.17842.pdf), which enables frozen LLMs to perform understanding & generation tasks on _non-linguistic modalities_ such as images or videos
 - We just released 🌟 __StarCoder__, an 15B open-source code generation model with SoTA performance, super happy to have contributed to it. [(BigCode)](https://huggingface.co/bigcode)
 - Gave a talk about ODEX at the Machine Learning Methods in Software Engineering [(video)](https://www.youtube.com/watch?v=xQxGyzcw7H4) hosted by JetBrains Research Team. Feel free to check it out! 🙌
 - Decided to continue my PhD at Language Technologies Institute @ Carnegie Mellon University 🎉
 - New Preprint: __ODEX__ about <ins>o</ins>pen-<ins>d</ins>omain code generation with <ins>ex</ins>ecution-based evaluation ([arXiv](https://arxiv.org/pdf/2212.10481.pdf))
-- Application for the Star Bridge program has opened. Take a look at [our retrospect](https://mp.weixin.qq.com/s/cf_8Wz1uHZBoyzJQFpDuXQ) if you are interested in a gap year at _Microsoft Research_, Asia.
-
 
 @CMU
 ======
