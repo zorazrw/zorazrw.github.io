@@ -10,18 +10,18 @@ redirect_from:
 
 Welcome to Zora's home on the web :)
 
+If you want to do research with me, discuss project directions for the 11-711 (Advanced NLP) course, or just generally get connected, you can check my calendar here (via [calendly](https://calendly.com/zorazrw) and book a 30-minute meeting. 
 
 News
 ======
 - We released [SPAE (Semantic Pyramid AutoEncoder)](https://arxiv.org/pdf/2306.17842.pdf), which enables frozen LLMs to perform understanding & generation tasks on _non-linguistic modalities_ such as images or videos
 - We just released 🌟 __StarCoder__, an 15B open-source code generation model with SoTA performance, super happy to have contributed to it. [(BigCode)](https://huggingface.co/bigcode)
 - Gave a talk about ODEX at the Machine Learning Methods in Software Engineering [(video)](https://www.youtube.com/watch?v=xQxGyzcw7H4) hosted by JetBrains Research Team. Feel free to check it out! 🙌
-- Decided to continue my PhD at Language Technologies Institute @ Carnegie Mellon University 🎉
 - New Preprint: __ODEX__ about <ins>o</ins>pen-<ins>d</ins>omain code generation with <ins>ex</ins>ecution-based evaluation ([arXiv](https://arxiv.org/pdf/2212.10481.pdf))
 
 @CMU
 ======
-I am currently continuing my graduate study at the [Language Technologies Institute](https://www.lti.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), in the [Master of Language Technologies](https://lti.cs.cmu.edu/mlt/) program. 
+I am currently a 1st year PhD student at the [Language Technologies Institute](https://www.lti.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). 
 
 My primary research interest is to __build language models with interpretable and generalizable reasoning skills__, by generating verifiable programs (e.g., SQL, logical forms, Python), grounding on supporting contexts (unstructured Wikipedia text, structured tables), and explore increasingly diverse contexts with broader functionalities. 
 
@@ -43,11 +43,11 @@ I have studied macro-economical models for Central Bank Digital Currency (CBDC) 
 Academic Services
 ======
 - Reviewer: [EACL 2023](https://2023.eacl.org/), main conference (Question Answering track)
-- Reviewer: [AAAI 2023](https://aaai.org/Conferences/AAAI-23/), main conference
-- Reviewer: NeurIPS 2022, Table Representation Learning ([TRL](https://table-representation-learning.github.io/)) workshop
+- Reviewer: [AAAI 2023, 2024](https://aaai.org/Conferences/AAAI-23/), main conference
+- Reviewer: NeurIPS 2022, 2023, Table Representation Learning ([TRL](https://table-representation-learning.github.io/)) workshop
 - Teaching Assistant for [11-711: Advanced Natural Language Processing](http://www.phontron.com/class/anlp2022/)
 - Organizing Committee: [Student Research Symposium](https://lti.cs.cmu.edu/SRS-2022), Language Technologies Institute (CMU), 2022
-- Reviewer: [EMNLP 2022](https://2022.emnlp.org/), main conference (Unsupervised and Weakly-Supervised Methods, Language Modeling and Analysis, QA)
+- Reviewer: [EMNLP 2022, 2023](https://2022.emnlp.org/), main conference (Unsupervised and Weakly-Supervised Methods, Language Modeling and Analysis, QA)
 - Reviewer: NAACL 2022, Structured and Unstructured Knowledge Integration ([SUKI](https://suki-workshop.github.io/)) workshop
 
 
