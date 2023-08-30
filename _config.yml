@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhiruo Wang, 王芷若"
 title_separator          : "-"
 name                     : &name "Zhiruo Wang, 王芷若"
-description              : &description "Master of Language Technologies, LTI@CMU"
+description              : &description "PhD, LTI@CMU"
 url                      : "https://zorazrw.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zorazrw.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zhiruo Wang / Zora"
   avatar           : "w-cat.jpg"
-  bio              : "MLT, LTI@CMU"
+  bio              : "PhD, LTI@CMU"
   location         : "Pittsburgh, PA"
   employer         :
   pubmed           : # ""
