@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to Zora's home on the web :)
 
-If you want to do research with me, discuss project directions for the 11-711 (Advanced NLP) course, or just generally get connected, you can check my calendar here (via [calendly](https://calendly.com/zorazrw) and book a 30-minute meeting. 
+If you want to do research with me, discuss project directions for the 11-711 (Advanced NLP) course, or just generally get connected, you can check my calendar here (via [calendly](https://calendly.com/zorazrw) and book a 30-minute meeting. Please __confirm with me__ first before you schedule any meeting!
 
 News
 ======
