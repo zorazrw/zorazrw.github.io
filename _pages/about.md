@@ -20,7 +20,7 @@ News
 
 Preprints
 ======
-- New Preprint: __FilCo__ ⌨️ [Learning to Filter COntext for Retrieval-Augmented Generation](https://arxiv.org/abs/2311.08377)
+- New Preprint: __FilCo__ ⌨️ [Learning to Filter Context for Retrieval-Augmented Generation](https://arxiv.org/abs/2311.08377)
 - Paper appearing in EMNLP main conference: [API-Assisted Code Generation for Question Answering on Varied Table Structures](https://arxiv.org/pdf/2310.14687.pdf), thanks to the great work of my mentees!
 - We released [SPAE (Semantic Pyramid AutoEncoder)](https://arxiv.org/pdf/2306.17842.pdf), which enables frozen LLMs to perform understanding & generation tasks on _non-linguistic modalities_ such as images or videos
 - We just released 🌟 __StarCoder__, a 15B open-source code generation model with SoTA performance, super happy to have contributed to it. [(BigCode)](https://huggingface.co/bigcode)
