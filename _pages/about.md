@@ -10,8 +10,6 @@ redirect_from:
 
 Welcome to Zora's home on the web :)
 
-If you want to do research with me, discuss project directions for the 11-711 (Advanced NLP) course, or just generally get connected, you can check my calendar here (via [calendly](https://calendly.com/zorazrw)) and book a 30-minute meeting. Please __confirm with me__ first before you schedule any meeting!
-
 News
 ======
 - Gave a guest lecture about code generation for the Advanced NLP course (11-711) 👩‍🏫 more details [here](https://cmu-anlp.github.io/schedule/code-generation.html)
@@ -32,6 +30,7 @@ I am currently a 1st year PhD student at the [Language Technologies Institute](h
 
 My primary research interest is to __build language models with interpretable and generalizable reasoning skills__, by generating verifiable programs (e.g., SQL, logical forms, Python), grounding on supporting contexts (unstructured Wikipedia text, structured tables), and explore increasingly diverse contexts with broader functionalities. 
 
+If you want to collaborate on research projects with me, discuss project directions for the 11-711 (Advanced NLP) course, or just generally get connected, you can check my calendar here (via [calendly](https://calendly.com/zorazrw)) and book a 30-minute meeting. Please confirm with me first before you schedule any meeting.
 
 NLP Research Experience
 ------
