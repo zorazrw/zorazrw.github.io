@@ -10,23 +10,21 @@ redirect_from:
 
 Welcome to Zora's home on the web :)
 
+Preprints
+======
+- New year new preprint 🧧 [TROVE: Inducing Verifiable and Efficient Toolboxes for Solving Programmatic Tasks](https://arxiv.org/pdf/2401.12869.pdf)
+- New preprint: __FilCo__ ⌨️ [Learning to Filter Context for Retrieval-Augmented Generation](https://arxiv.org/abs/2311.08377)
+
 News
 ======
 - Gave a guest lecture about code generation for the Advanced NLP course (11-711) 👩‍🏫 more details [here](https://cmu-anlp.github.io/schedule/code-generation.html)
 - A talk about 🛠️ __Tool using, learning, and making with LLMs__ at code generation reading group, check out the [video](https://cmu.zoom.us/rec/share/cI-aFYHoIL0fir4KeKwiVladDrUPrdtTWGeXvcg42-UryelmAW3QTW5ASrd9QmO0.Sz5hB9sIrPd2s_UT) and [slides](https://docs.google.com/presentation/d/1pRkE4n44YrS9yJOFBruj9VZiR7V9El_e_6mToeNXX0E/edit?usp=sharing)
 - Gave a talk about ODEX at the Machine Learning Methods in Software Engineering [(video)](https://www.youtube.com/watch?v=xQxGyzcw7H4) hosted by JetBrains Research Team. Feel free to check it out! 🙌
 
-Preprints
-======
-- New Preprint: __FilCo__ ⌨️ [Learning to Filter Context for Retrieval-Augmented Generation](https://arxiv.org/abs/2311.08377)
-- Paper appearing in EMNLP main conference: [API-Assisted Code Generation for Question Answering on Varied Table Structures](https://arxiv.org/pdf/2310.14687.pdf), thanks to the great work of my mentees!
-- We released [SPAE (Semantic Pyramid AutoEncoder)](https://arxiv.org/pdf/2306.17842.pdf), which enables frozen LLMs to perform understanding & generation tasks on _non-linguistic modalities_ such as images or videos
-- We just released 🌟 __StarCoder__, a 15B open-source code generation model with SoTA performance, super happy to have contributed to it. [(BigCode)](https://huggingface.co/bigcode)
-- Check out __ODEX__ about <ins>o</ins>pen-<ins>d</ins>omain code generation with <ins>ex</ins>ecution-based evaluation ([arXiv](https://arxiv.org/pdf/2212.10481.pdf))
 
 @CMU
 ======
-I am currently a 1st year PhD student at the [Language Technologies Institute](https://www.lti.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). 
+I am currently a 1st year PhD student at the [Language Technologies Institute](https://www.lti.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) working with [Daniel Fried](https://dpfried.github.io/) and [Graham Neubig](https://www.phontron.com/). 
 
 My primary research interest is to __build language models with interpretable and generalizable reasoning skills__, by generating verifiable programs (e.g., SQL, logical forms, Python), grounding on supporting contexts (unstructured Wikipedia text, structured tables), and explore increasingly diverse contexts with broader functionalities. 
 
