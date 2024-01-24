@@ -23,7 +23,7 @@ News
 - Gave a talk about ODEX at the Machine Learning Methods in Software Engineering [(video)](https://www.youtube.com/watch?v=xQxGyzcw7H4) hosted by JetBrains Research Team. Feel free to check it out! 🙌
 
 
-Life @ CMU
+@CMU
 ======
 I am currently a 1st year PhD student at the [Language Technologies Institute](https://www.lti.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) working with [Daniel Fried](https://dpfried.github.io/) and [Graham Neubig](https://www.phontron.com/). 
 
@@ -31,7 +31,7 @@ My primary research interest is to __build language models with interpretable an
 
 Get Connected
 ------
-- If you want to get connected, discuss potential project ideas, ask about CMU application, or any other relevant, you can book a 30-minute meeting via [calendly](https://calendly.com/zorazrw).
+- If you want to get connected, discuss potential project ideas, ask about CMU application, or any other relevant topics, you can book a 30-minute meeting via [calendly](https://calendly.com/zorazrw).
 - If you are taking 11-891 (neural code generation) and want to chat about project ideas, my office hours are available every Friday 4-5 pm EST.
 - I often mentor a few students every semester. If you are an undergrad/master's student at CMU and interested in NLP, please reach out to me by email.
 - If you are from underrepresented groups, or do not have much research experience, you are encouraged to reach out!
