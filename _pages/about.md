@@ -12,23 +12,29 @@ Welcome to Zora's home on the web :)
 
 Preprints
 ======
-- New year new preprint 🧧 [TROVE: Inducing Verifiable and Efficient Toolboxes for Solving Programmatic Tasks](https://arxiv.org/pdf/2401.12869.pdf)
-- New preprint: __FilCo__ ⌨️ [Learning to Filter Context for Retrieval-Augmented Generation](https://arxiv.org/abs/2311.08377)
+- New Year New Preprint 🧧 [TROVE: Inducing Verifiable and Efficient Toolboxes for Solving Programmatic Tasks](https://arxiv.org/pdf/2401.12869.pdf)
+- __FilCo__ ⌨️ [Learning to Filter Context for Retrieval-Augmented Generation](https://arxiv.org/abs/2311.08377)
 
 News
 ======
+- TAing for the new course [11-891 Neural Code Generation](https://cmu-codegen.github.io/s2024/) taught by [Daniel Fried](https://dpfried.github.io/) and [Sean Welleck](https://wellecks.com/), reach out if you want to discuss more project ideas 🪄
 - Gave a guest lecture about code generation for the Advanced NLP course (11-711) 👩‍🏫 more details [here](https://cmu-anlp.github.io/schedule/code-generation.html)
 - A talk about 🛠️ __Tool using, learning, and making with LLMs__ at code generation reading group, check out the [video](https://cmu.zoom.us/rec/share/cI-aFYHoIL0fir4KeKwiVladDrUPrdtTWGeXvcg42-UryelmAW3QTW5ASrd9QmO0.Sz5hB9sIrPd2s_UT) and [slides](https://docs.google.com/presentation/d/1pRkE4n44YrS9yJOFBruj9VZiR7V9El_e_6mToeNXX0E/edit?usp=sharing)
 - Gave a talk about ODEX at the Machine Learning Methods in Software Engineering [(video)](https://www.youtube.com/watch?v=xQxGyzcw7H4) hosted by JetBrains Research Team. Feel free to check it out! 🙌
 
 
-@CMU
+Life @ CMU
 ======
 I am currently a 1st year PhD student at the [Language Technologies Institute](https://www.lti.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) working with [Daniel Fried](https://dpfried.github.io/) and [Graham Neubig](https://www.phontron.com/). 
 
 My primary research interest is to __build language models with interpretable and generalizable reasoning skills__, by generating verifiable programs (e.g., SQL, logical forms, Python), grounding on supporting contexts (unstructured Wikipedia text, structured tables), and explore increasingly diverse contexts with broader functionalities. 
 
-If you want to collaborate on research projects with me, discuss project directions for the 11-711 (Advanced NLP) course, or just generally get connected, you can check my calendar here (via [calendly](https://calendly.com/zorazrw)) and book a 30-minute meeting. Please confirm with me first before you schedule any meeting.
+Get Connected
+------
+- If you want to get connected, discuss potential project ideas, ask about CMU application, or any other relevant, you can book a 30-minute meeting via [calendly](https://calendly.com/zorazrw).
+- If you are taking 11-891 (neural code generation) and want to chat about project ideas, my office hours are available every Friday 4-5 pm EST.
+- I often mentor a few students every semester. If you are an undergrad/master's student at CMU and interested in NLP, please reach out to me by email.
+- If you are from underrepresented groups, or do not have much research experience, you are encouraged to reach out!
 
 NLP Research Experience
 ------
@@ -46,13 +52,9 @@ I have studied macro-economical models for Central Bank Digital Currency (CBDC) 
 
 Academic Services
 ======
-- Reviewer: [EACL 2023](https://2023.eacl.org/), main conference (Question Answering track)
-- Reviewer: [AAAI 2023, 2024](https://aaai.org/Conferences/AAAI-23/), main conference
-- Reviewer: NeurIPS 2022, 2023, Table Representation Learning ([TRL](https://table-representation-learning.github.io/)) workshop
+- Reviewer: ACL, NAACL, EMNLP, EACL, AAAI, NeurIPS
 - Teaching Assistant for [11-711: Advanced Natural Language Processing](http://www.phontron.com/class/anlp2022/)
 - Organizing Committee: [Student Research Symposium](https://lti.cs.cmu.edu/SRS-2022), Language Technologies Institute (CMU), 2022
-- Reviewer: [EMNLP 2022, 2023](https://2022.emnlp.org/), main conference (Unsupervised and Weakly-Supervised Methods, Language Modeling and Analysis, QA)
-- Reviewer: NAACL 2022, Structured and Unstructured Knowledge Integration ([SUKI](https://suki-workshop.github.io/)) workshop
 
 
 I Love My Name
