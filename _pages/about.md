@@ -20,7 +20,7 @@ News
 - Gave a talk about __Language Models with Tools__ at the _LLM as Agent_ Seminar, about [TroVE](https://arxiv.org/pdf/2401.12869.pdf) and works in progress 🤫
 - TAing for the new course [11-891 Neural Code Generation](https://cmu-codegen.github.io/s2024/), reach out if you want to discuss more project ideas 🪄
 - Gave a guest lecture about __Evaluation and Benchmarks for Code Generation__ for the Advanced NLP course (11-711) 👩‍🏫 more details [here](https://cmu-anlp.github.io/schedule/code-generation.html)
-- A talk about 🛠️ __Tool using, learning, and making with LLMs__ at code generation reading group, check out the [video](https://cmu.zoom.us/rec/share/cI-aFYHoIL0fir4KeKwiVladDrUPrdtTWGeXvcg42-UryelmAW3QTW5ASrd9QmO0.Sz5hB9sIrPd2s_UT) and [slides](https://docs.google.com/presentation/d/1pRkE4n44YrS9yJOFBruj9VZiR7V9El_e_6mToeNXX0E/edit?usp=sharing)
+- A talk about 🛠️ __Tool using, learning, and making with LLMs__ at _Code Generation Reading Group_, check out the [video](https://cmu.zoom.us/rec/share/cI-aFYHoIL0fir4KeKwiVladDrUPrdtTWGeXvcg42-UryelmAW3QTW5ASrd9QmO0.Sz5hB9sIrPd2s_UT) and [slides](https://docs.google.com/presentation/d/1pRkE4n44YrS9yJOFBruj9VZiR7V9El_e_6mToeNXX0E/edit?usp=sharing)
 - Gave a talk about [ODEX](https://arxiv.org/pdf/2212.10481.pdf) at the Machine Learning Methods in Software Engineering [(video)](https://www.youtube.com/watch?v=xQxGyzcw7H4) hosted by JetBrains Research Team 👩‍💻
 
 
