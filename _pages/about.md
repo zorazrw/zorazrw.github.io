@@ -26,7 +26,7 @@ News
 
 @CMU
 ======
-I am currently a 1st year PhD student at the [Language Technologies Institute](https://www.lti.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) working with [Daniel Fried](https://dpfried.github.io/) and [Graham Neubig](https://www.phontron.com/). 
+I am currently a 1st/3rd year PhD student at the [Language Technologies Institute](https://www.lti.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) working with [Daniel Fried](https://dpfried.github.io/) and [Graham Neubig](https://www.phontron.com/). 
 
 My primary research interest is to __build language models with interpretable and generalizable reasoning skills__, by generating verifiable programs (e.g., SQL, logical forms, Python), grounding on supporting contexts (unstructured Wikipedia text, structured tables), and explore increasingly diverse contexts with broader functionalities. 
 
