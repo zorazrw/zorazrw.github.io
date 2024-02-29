@@ -8,27 +8,34 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Zora's home on the web :)
 
-Preprints
+Welcome to Zora's home on the web :)
 ======
-- New Year New Preprint 🧧 [TROVE: Inducing Verifiable and Efficient Toolboxes for Solving Programmatic Tasks](https://arxiv.org/pdf/2401.12869.pdf)
-- __FilCo__ ⌨️ [Learning to Filter Context for Retrieval-Augmented Generation](https://arxiv.org/abs/2311.08377)
+I am currently a 1st/3rd year PhD student at the [Language Technologies Institute](https://www.lti.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) working with [Daniel Fried](https://dpfried.github.io/) and [Graham Neubig](https://www.phontron.com/). 
+
+My primary research interest is to __build language models with interpretable and generalizable reasoning skills__, by generating verifiable programs (e.g., SQL, logical forms, Python), grounding on supporting contexts (unstructured Wikipedia text, structured tables), and exploring increasingly diverse contexts with broader functionalities. 
+Particularly, I'm working on:
+
+__Tool-Augmented Language Models__
+- Leverage and improve program tools 
+  - Challenging benchmarks for open-domain [[ODEX]](https://arxiv.org/abs/2212.10481),  multilingual [[MCoNaLa]](https://arxiv.org/abs/2203.08388), and data science [[HiTab]](https://arxiv.org/abs/2108.06712) coding queries
+  - Performant open-source code models [[StarCoder]](https://arxiv.org/abs/2305.06161), with assistive [[APIs]](https://arxiv.org/abs/2310.14687) and library documents [[DocPrompting]](https://openreview.net/pdf?id=ZTCxT2t2Ru) 
+- Knowledge acquisition tools: retrieving free-form texts [[FilCo]](https://arxiv.org/abs/2311.08377) [[ReAtt]](https://arxiv.org/abs/2212.02027) and structured knowledge [[WikiTable]](https://arxiv.org/abs/2205.09843) [[K-BERT]](https://ojs.aaai.org/index.php/AAAI/article/view/5681) 
+- Other Modalities: map fixed LMs to images [[SPAE]](https://proceedings.neurips.cc/paper_files/paper/2023/file/a526cc8f6ffb74bedb6ff313e3fdb450-Paper-Conference.pdf), or leverage program to manipulate image [[TroVE]](https://arxiv.org/abs/2401.12869)
+
+__Agent(ic System)s that Automate Human Labor__
+- Using LMs to complete human tasks: data analysis [[HiTab]](https://arxiv.org/abs/2108.06712), software programming [[ODEX]](https://arxiv.org/abs/2212.10481), and solving math problems [[TroVE]](https://arxiv.org/abs/2401.12869)
+- Facilitate safe human verification: increase detection accuracy and accelerate verification speed [[TroVE]](https://arxiv.org/abs/2401.12869) 
+
 
 News
-======
+------
 - Gave a talk about __Language Models with Tools__ at the _LLM as Agent_ Seminar, about [TroVE](https://arxiv.org/pdf/2401.12869.pdf) and works in progress 🤫
 - TAing for the new course [11-891 Neural Code Generation](https://cmu-codegen.github.io/s2024/), reach out if you want to discuss more project ideas 🪄
 - Gave a guest lecture about __Evaluation and Benchmarks for Code Generation__ for the Advanced NLP course (11-711) 👩‍🏫 more details [here](https://cmu-anlp.github.io/schedule/code-generation.html)
 - A talk about 🛠️ __Tool using, learning, and making with LLMs__ at _Code Generation Reading Group_, check out the [video](https://cmu.zoom.us/rec/share/cI-aFYHoIL0fir4KeKwiVladDrUPrdtTWGeXvcg42-UryelmAW3QTW5ASrd9QmO0.Sz5hB9sIrPd2s_UT) and [slides](https://docs.google.com/presentation/d/1pRkE4n44YrS9yJOFBruj9VZiR7V9El_e_6mToeNXX0E/edit?usp=sharing)
 - Gave a talk about [ODEX](https://arxiv.org/pdf/2212.10481.pdf) at the Machine Learning Methods in Software Engineering [(video)](https://www.youtube.com/watch?v=xQxGyzcw7H4) hosted by JetBrains Research Team 👩‍💻
 
-
-@CMU
-======
-I am currently a 1st/3rd year PhD student at the [Language Technologies Institute](https://www.lti.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) working with [Daniel Fried](https://dpfried.github.io/) and [Graham Neubig](https://www.phontron.com/). 
-
-My primary research interest is to __build language models with interpretable and generalizable reasoning skills__, by generating verifiable programs (e.g., SQL, logical forms, Python), grounding on supporting contexts (unstructured Wikipedia text, structured tables), and explore increasingly diverse contexts with broader functionalities. 
 
 Get Connected
 ------
