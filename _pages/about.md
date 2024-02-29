@@ -13,19 +13,19 @@ Welcome to Zora's home on the web :)
 ======
 I am currently a 1st/3rd year PhD student at the [Language Technologies Institute](https://www.lti.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) working with [Daniel Fried](https://dpfried.github.io/) and [Graham Neubig](https://www.phontron.com/). 
 
-My primary research interest is to __build language models with interpretable and generalizable reasoning skills__, by generating verifiable programs (e.g., SQL, logical forms, Python), grounding on supporting contexts (unstructured Wikipedia text, structured tables), and exploring increasingly diverse contexts with broader functionalities. 
+My primary research interest is to __build language models with interpretable and generalizable reasoning skills__, by generating verifiable programs (e.g., SQL, logical forms, Python), grounding on supporting contexts (unstructured Wikipedia text, structured data, embodied environments), and exploring increasingly diverse contexts and functionalities. 
 Particularly, I'm working on:
 
-__Tool-Augmented Language Models__
-- Leverage and improve program tools 
+__Augmented Language Models__
+- Leverage and improve programs 
   - Challenging benchmarks for open-domain [[ODEX]](https://arxiv.org/abs/2212.10481),  multilingual [[MCoNaLa]](https://arxiv.org/abs/2203.08388), and data science [[HiTab]](https://arxiv.org/abs/2108.06712) coding queries
   - Performant open-source code models [[StarCoder]](https://arxiv.org/abs/2305.06161), with assistive [[APIs]](https://arxiv.org/abs/2310.14687) and library documents [[DocPrompting]](https://openreview.net/pdf?id=ZTCxT2t2Ru) 
-- Knowledge acquisition tools: retrieving free-form texts [[FilCo]](https://arxiv.org/abs/2311.08377) [[ReAtt]](https://arxiv.org/abs/2212.02027) and structured knowledge [[WikiTable]](https://arxiv.org/abs/2205.09843) [[K-BERT]](https://ojs.aaai.org/index.php/AAAI/article/view/5681) 
+- Knowledge acquisition: retrieving free-form texts [[FilCo]](https://arxiv.org/abs/2311.08377) [[ReAtt]](https://arxiv.org/abs/2212.02027) and structured knowledge [[WikiTable]](https://arxiv.org/abs/2205.09843) [[K-BERT]](https://ojs.aaai.org/index.php/AAAI/article/view/5681) 
 - Other Modalities: map fixed LMs to images [[SPAE]](https://proceedings.neurips.cc/paper_files/paper/2023/file/a526cc8f6ffb74bedb6ff313e3fdb450-Paper-Conference.pdf), or leverage program to manipulate image [[TroVE]](https://arxiv.org/abs/2401.12869)
 
 __Agent(ic System)s that Automate Human Labor__
 - Using LMs to complete human tasks: data analysis [[HiTab]](https://arxiv.org/abs/2108.06712), software programming [[ODEX]](https://arxiv.org/abs/2212.10481), and solving math problems [[TroVE]](https://arxiv.org/abs/2401.12869)
-- Facilitate safe human verification: increase detection accuracy and accelerate verification speed [[TroVE]](https://arxiv.org/abs/2401.12869) 
+- Facilitate safer human verification: increased detection accuracy and accelerated verification process [[TroVE]](https://arxiv.org/abs/2401.12869) 
 
 
 News
