@@ -18,7 +18,7 @@ Particularly, I'm working on:
 __Augmented Language Models__
 - Leverage and improve programs 
   - Challenging benchmarks for open-domain [[ODEX]](https://arxiv.org/abs/2212.10481),  multilingual [[MCoNaLa]](https://arxiv.org/abs/2203.08388), and data science [[HiTab]](https://arxiv.org/abs/2108.06712) coding queries
-  - Performant code models [[StarCoder]](https://arxiv.org/abs/2305.06161), with assistive [[APIs]](https://arxiv.org/abs/2310.14687) and libraries [[DocPrompting]](https://openreview.net/pdf?id=ZTCxT2t2Ru) 
+  - Performant code LMs [[StarCoder]](https://arxiv.org/abs/2305.06161) with assistive [[APIs]](https://arxiv.org/abs/2310.14687) and libraries [[DocPrompting]](https://openreview.net/pdf?id=ZTCxT2t2Ru) 
 - Knowledge: retrieve texts [[FilCo]](https://arxiv.org/abs/2311.08377) [[ReAtt]](https://arxiv.org/abs/2212.02027) and structured data [[WikiTable]](https://arxiv.org/abs/2205.09843) [[K-BERT]](https://ojs.aaai.org/index.php/AAAI/article/view/5681) 
 - Other Modalities: act on images [[TroVE]](https://arxiv.org/abs/2401.12869), or map fixed LMs to images [[SPAE]]
 
