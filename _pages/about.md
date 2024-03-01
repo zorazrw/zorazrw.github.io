@@ -19,13 +19,13 @@ Particularly, I'm working on:
 __Augmented Language Models__
 - Leverage and improve programs 
   - Challenging benchmarks for open-domain [[ODEX]](https://arxiv.org/abs/2212.10481),  multilingual [[MCoNaLa]](https://arxiv.org/abs/2203.08388), and data science [[HiTab]](https://arxiv.org/abs/2108.06712) coding queries
-  - Performant open-source code models [[StarCoder]](https://arxiv.org/abs/2305.06161), with assistive [[APIs]](https://arxiv.org/abs/2310.14687) and library documents [[DocPrompting]](https://openreview.net/pdf?id=ZTCxT2t2Ru) 
-- Knowledge acquisition: retrieving free-form texts [[FilCo]](https://arxiv.org/abs/2311.08377) [[ReAtt]](https://arxiv.org/abs/2212.02027) and structured knowledge [[WikiTable]](https://arxiv.org/abs/2205.09843) [[K-BERT]](https://ojs.aaai.org/index.php/AAAI/article/view/5681) 
-- Other Modalities: map fixed LMs to images [[SPAE]](https://proceedings.neurips.cc/paper_files/paper/2023/file/a526cc8f6ffb74bedb6ff313e3fdb450-Paper-Conference.pdf), or leverage program to manipulate image [[TroVE]](https://arxiv.org/abs/2401.12869)
+  - Performant code models [[StarCoder]](https://arxiv.org/abs/2305.06161), with assistive [[APIs]](https://arxiv.org/abs/2310.14687) and libraries [[DocPrompting]](https://openreview.net/pdf?id=ZTCxT2t2Ru) 
+- Knowledge: retrieving free-form texts [[FilCo]](https://arxiv.org/abs/2311.08377) [[ReAtt]](https://arxiv.org/abs/2212.02027) and structured data [[WikiTable]](https://arxiv.org/abs/2205.09843) [[K-BERT]](https://ojs.aaai.org/index.php/AAAI/article/view/5681) 
+- Other Modalities: map fixed LMs to images [[SPAE]](https://proceedings.neurips.cc/paper_files/paper/2023/file/a526cc8f6ffb74bedb6ff313e3fdb450-Paper-Conference.pdf), or act on images using programs [[TroVE]](https://arxiv.org/abs/2401.12869)
 
 __Agent(ic System)s that Automate Human Labor__
-- Using LMs to complete human tasks: data analysis [[HiTab]](https://arxiv.org/abs/2108.06712), software programming [[ODEX]](https://arxiv.org/abs/2212.10481), and solving math problems [[TroVE]](https://arxiv.org/abs/2401.12869)
-- Facilitate safer human verification: increased detection accuracy and accelerated verification process [[TroVE]](https://arxiv.org/abs/2401.12869) 
+- Using LMs to do human tasks: e.g., data analysis [[HiTab]](https://arxiv.org/abs/2108.06712), software programming [[ODEX]](https://arxiv.org/abs/2212.10481)
+- Facilitate human verification: increase accuracy and accelerate the process [[TroVE]](https://arxiv.org/abs/2401.12869) 
 
 
 News
