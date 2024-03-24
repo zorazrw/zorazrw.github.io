@@ -29,7 +29,7 @@ __Agent(ic System)s that Automate Human Labor__
 
 News
 ------
-- _Mar 2024_: Gave a talk at the [_FLAME_ (Foundation and LAnguage Model) 🔥](https://cmuflame.org/) seminar about our recent survey (stay tuned!) and [TroVE](https://arxiv.org/pdf/2401.12869.pdf)
+- _Mar 2024_: Gave a talk at the [_FLAME_ (Foundation and LAnguage Model) 🔥](https://cmuflame.org/) seminar about [our recent survey](https://zorazrw.github.io/files/WhatAreToolsAnyway.pdf) and [TroVE](https://arxiv.org/pdf/2401.12869.pdf)
 - _Feb 2024_: Gave a talk about __Language Models with Tools__ at the _LLM as Agent_ Seminar, about [TroVE](https://arxiv.org/pdf/2401.12869.pdf) and works in progress 🤫
 - _Feb 2024_: Gave a lecture about __Evaluation (metrics and benchmarks)__ for the Neural Code Generation (11-891) course 💻
 - _Jan 2024_: TAing for the new course [11-891 Neural Code Generation](https://cmu-codegen.github.io/s2024/), reach out if you want to discuss more project ideas 🪄
