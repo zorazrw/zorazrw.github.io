@@ -29,6 +29,7 @@ __Agent(ic System)s that Automate Human Labor__
 
 News
 ------
+- _Mar 2024_: Gave a guest lecture about __Language Agents__ at the Advanced NLP course (11-711) course, check out the [recordings](https://www.youtube.com/watch?v=6NeTO61qc4M&list=PL8PYTP1V4I8DZprnWryM4nR8IZl1ZXDjg&pp=iAQB)!
 - _Mar 2024_: Gave a talk at the [_FLAME_ (Foundation and LAnguage Model) 🔥](https://cmuflame.org/) seminar about [our recent survey](https://zorazrw.github.io/files/WhatAreToolsAnyway.pdf) and [TroVE](https://arxiv.org/pdf/2401.12869.pdf)
 - _Feb 2024_: Gave a talk about __Language Models with Tools__ at the _LLM as Agent_ Seminar, about [TroVE](https://arxiv.org/pdf/2401.12869.pdf) and works in progress 🤫
 - _Feb 2024_: Gave a lecture about __Evaluation (metrics and benchmarks)__ for the Neural Code Generation (11-891) course 💻
