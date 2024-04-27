@@ -15,28 +15,44 @@ I am currently a 1st/3rd year PhD student at the [Language Technologies Institut
 My primary research interest is to build language models with interpretable and generalizable reasoning skills. 
 Particularly, I'm working on:
 
-__Augmented Language Models__ [[Survey]](https://github.com/zorazrw/awesome-tool-llm)
-- Leverage and improve programs 
-  - Challenging benchmarks for open-domain [[ODEX]](https://arxiv.org/abs/2212.10481),  multilingual [[MCoNaLa]](https://arxiv.org/abs/2203.08388), and data science [[HiTab]](https://arxiv.org/abs/2108.06712) coding queries
-  - Performant code LMs [[StarCoder]](https://arxiv.org/abs/2305.06161) with assistive [[APIs]](https://arxiv.org/abs/2310.14687) and libraries [[DocPrompting]](https://openreview.net/pdf?id=ZTCxT2t2Ru) 
-- Knowledge: retrieve texts [[FilCo]](https://arxiv.org/abs/2311.08377) [[ReAtt]](https://arxiv.org/abs/2212.02027) [[RAGGED]](https://arxiv.org/pdf/2403.09040.pdf) and structured data [[WikiTable]](https://arxiv.org/abs/2205.09843) [[TUTA]](https://arxiv.org/pdf/2010.12537.pdf) [[K-BERT]](https://ojs.aaai.org/index.php/AAAI/article/view/5681) 
-- Other Modalities: act on images [[TroVE]](https://arxiv.org/abs/2401.12869), or map fixed LMs to images [[SPAE]](https://openreview.net/forum?id=CXPUg86A1D)
+<details>
+  <summary><b>Augmented Language Models</b> <a href="https://github.com/zorazrw/awesome-tool-llm">[Survey]</a></summary>
+  <ol>
+    <li>Leverage and improve programs </a></li>
+      <ul>
+        <li>Challenging benchmarks for open domain <a href="https://arxiv.org/abs/2212.10481">[ODEX]</a>, multilingual <a href="https://arxiv.org/abs/2203.08388">[MCoNaLa]</a>, and data science <a href="https://arxiv.org/abs/2108.06712">[HiTab]</a> problems</li>
+        <li>Performance code LMs <a href="https://arxiv.org/abs/2305.06161">[StarCoder]</a> with assistive <a href="https://arxiv.org/abs/2310.14687">[APIs]</a> and libraries in <a href="https://openreview.net/pdf?id=ZTCxT2t2Ru">[DocPrompting]</a></li>
+      </ul>
+    </li>
+    <li>Knowledge: retrieve texts <a href="https://arxiv.org/abs/2311.08377">[FilCo]</a> <a href="https://arxiv.org/abs/2212.02027">[ReAtt]</a> <a href="https://arxiv.org/abs/2403.09040">[RAGGED]</a> and structured data <a href="https://arxiv.org/abs/2205.09843">[WikiTable]</a> <a href="https://arxiv.org/abs/2010.12537">[TUTA]</a> <a href="https://ojs.aaai.org/index.php/AAAI/article/view/5681">[K-BERT]</a> </li>
+    <li>Other modalities: act on images <a href="https://arxiv.org/abs/2401.12869">[TroVE]</a>, or map fixed LMs to images <a href="https://openreview.net/forum?id=CXPUg86A1D">[SPAE]</a></li>
+  </ol>
+</details>
 
-__Agent(ic System)s that Automate Human Labor__
-- Using LMs to do human tasks: e.g., data analysis [[HiTab]](https://arxiv.org/abs/2108.06712), software programming [[ODEX]](https://arxiv.org/abs/2212.10481)
-- Facilitate human verification: increase accuracy and accelerate the process [[TroVE]](https://arxiv.org/abs/2401.12869) 
-
+<details>
+  <summary><b>Agent(ic System)s that Automate Human Labor</b></summary>
+  <ol>
+    <li>Using LMs to do human tasks: e.g., data analysis <a href="https://arxiv.org/abs/2108.06712">[HiTab]</a> software programming <a href="https://arxiv.org/abs/2212.10481">[ODEX]</a></li>
+    <li>Facilitate human verification: increase accuracy and accelerate the process <a href="https://arxiv.org/abs/2401.12869">[TroVE]</a></li>
+  </ol>
+</details>
 
 News
 ------
+- _May 2024_: About to host our [CMU Agent Workshop](https://cmu-agent-workshop.github.io/) 🤖, join the event for insightful tutorials, talks, and posters!
 - _Mar 2024_: Gave a guest lecture about __Language Agents__ at the Advanced NLP course (11-711) course, check out the [recordings](https://www.youtube.com/watch?v=6NeTO61qc4M&list=PL8PYTP1V4I8DZprnWryM4nR8IZl1ZXDjg&pp=iAQB)!
 - _Mar 2024_: Gave a talk at the [_FLAME_ (Foundation and LAnguage Model) 🔥](https://cmuflame.org/) seminar about [our recent survey](https://zorazrw.github.io/files/WhatAreToolsAnyway.pdf) and [TroVE](https://arxiv.org/pdf/2401.12869.pdf)
 - _Feb 2024_: Gave a talk about __Language Models with Tools__ at the _LLM as Agent_ Seminar, about [TroVE](https://arxiv.org/pdf/2401.12869.pdf) and works in progress 🤫
 - _Feb 2024_: Gave a lecture about __Evaluation (metrics and benchmarks)__ for the Neural Code Generation (11-891) course 💻
 - _Jan 2024_: TAing for the new course [11-891 Neural Code Generation](https://cmu-codegen.github.io/s2024/), reach out if you want to discuss more project ideas 🪄
-- _Nov 2023_: Gave a guest lecture about __Evaluation and Benchmarks for Code Generation__ for the Advanced NLP course (11-711) 👩‍🏫 more details [here](https://cmu-anlp.github.io/schedule/code-generation.html)
-- _Aug 2023_: A talk about 🛠️ __Tool using, learning, and making with LLMs__ at _Code Generation Reading Group_, check out the [video](https://cmu.zoom.us/rec/share/cI-aFYHoIL0fir4KeKwiVladDrUPrdtTWGeXvcg42-UryelmAW3QTW5ASrd9QmO0.Sz5hB9sIrPd2s_UT)
-- _Apr 2023_: Gave a talk about [ODEX](https://arxiv.org/pdf/2212.10481.pdf) at the Machine Learning Methods in Software Engineering [(video)](https://www.youtube.com/watch?v=xQxGyzcw7H4) hosted by JetBrains Research Team 👩‍💻
+<details>
+  <summary>🐾 Older News</summary>
+  <ol>
+    <li><em>Nov 2023</em>: Gave a guest lecture about __Evaluation and Benchmarks for Code Generation__ for the Advanced NLP course (11-711) 👩‍🏫 more details [here](https://cmu-anlp.github.io/schedule/code-generation.html)</li>
+    <li><em>Aug 2023</em>: A talk about 🛠️ __Tool using, learning, and making with LLMs__ at _Code Generation Reading Group_, check out the [video](https://cmu.zoom.us/rec/share/cI-aFYHoIL0fir4KeKwiVladDrUPrdtTWGeXvcg42-UryelmAW3QTW5ASrd9QmO0.Sz5hB9sIrPd2s_UT)</li>
+    <li><em>Apr 2023</em>: Gave a talk about [ODEX](https://arxiv.org/pdf/2212.10481.pdf) at the Machine Learning Methods in Software Engineering [(video)](https://www.youtube.com/watch?v=xQxGyzcw7H4) hosted by JetBrains Research Team 👩‍💻</li>
+  </ol>
+</details>
 
 
 Get Connected
