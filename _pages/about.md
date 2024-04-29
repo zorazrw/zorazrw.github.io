@@ -47,9 +47,9 @@ News
 <details>
   <summary>🐾 Older News</summary>
   <ol>
-    <li><em>Nov 2023</em>: Gave a guest lecture about __Evaluation and Benchmarks for Code Generation__ for the Advanced NLP course (11-711) 👩‍🏫 more details [here](https://cmu-anlp.github.io/schedule/code-generation.html)</li>
-    <li><em>Aug 2023</em>: A talk about 🛠️ __Tool using, learning, and making with LLMs__ at _Code Generation Reading Group_, check out the [video](https://cmu.zoom.us/rec/share/cI-aFYHoIL0fir4KeKwiVladDrUPrdtTWGeXvcg42-UryelmAW3QTW5ASrd9QmO0.Sz5hB9sIrPd2s_UT)</li>
-    <li><em>Apr 2023</em>: Gave a talk about [ODEX](https://arxiv.org/pdf/2212.10481.pdf) at the Machine Learning Methods in Software Engineering [(video)](https://www.youtube.com/watch?v=xQxGyzcw7H4) hosted by JetBrains Research Team 👩‍💻</li>
+    <li><em>Nov 2023</em>: Gave a guest lecture about <b>Evaluation and Benchmarks for Code Generation</b> for the Advanced NLP course (11-711) 👩‍🏫 more details <a href="https://cmu-anlp.github.io/schedule/code-generation.html">[here]</a></li>
+    <li><em>Aug 2023</em>: A talk about 🛠️ <b>Tool using, learning, and making with LLMs</b> at <em>Code Generation Reading Group</em>, check out the <a href="https://cmu.zoom.us/rec/share/cI-aFYHoIL0fir4KeKwiVladDrUPrdtTWGeXvcg42-UryelmAW3QTW5ASrd9QmO0.Sz5hB9sIrPd2s_UT">[video]</a></li>
+    <li><em>Apr 2023</em>: Gave a talk about <a href="https://arxiv.org/pdf/2212.10481.pdf">[ODEX]</a> at the Machine Learning Methods in Software Engineering <a href="https://www.youtube.com/watch?v=xQxGyzcw7H4">(video)</a> hosted by JetBrains Research Team 👩‍💻</li>
   </ol>
 </details>
 
