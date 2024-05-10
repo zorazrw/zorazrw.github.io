@@ -38,7 +38,8 @@ Particularly, I'm working on:
 
 News
 ------
-- _May 2024_: About to host our [CMU Agent Workshop](https://cmu-agent-workshop.github.io/) 🤖, join the event for insightful tutorials, talks, and posters!
+- _Jul 2024_: Will give a 3-hour tutorial about __Large Language Models for Tabular Data__ at SIGIR 2024. Stay tuned!
+- _May 2024_: Organized our [CMU Agent Workshop](https://cmu-agent-workshop.github.io/) 🤖 with plenty of events -- insightful tutorials, talks, and posters! I also gave two (short) tutorials about tool-augmented LMs and codegen testbeds.
 - _Mar 2024_: Gave a guest lecture about __Language Agents__ at the Advanced NLP course (11-711) course, check out the [recordings](https://www.youtube.com/watch?v=6NeTO61qc4M&list=PL8PYTP1V4I8DZprnWryM4nR8IZl1ZXDjg&pp=iAQB)!
 - _Mar 2024_: Gave a talk at the [_FLAME_ (Foundation and LAnguage Model) 🔥](https://cmuflame.org/) seminar about [our recent survey](https://zorazrw.github.io/files/WhatAreToolsAnyway.pdf) and [TroVE](https://arxiv.org/pdf/2401.12869.pdf)
 - _Feb 2024_: Gave a talk about __Language Models with Tools__ at the _LLM as Agent_ Seminar, about [TroVE](https://arxiv.org/pdf/2401.12869.pdf) and works in progress 🤫
