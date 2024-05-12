@@ -16,7 +16,7 @@ My primary research interest is to build language models with interpretable and 
 Particularly, I'm working on:
 
 <details>
-  <summary><b>Augmented Language Models</b> <a href="https://github.com/zorazrw/awesome-tool-llm">[Survey]</a></summary>
+  <summary><b>Augmented Language Models</b> <a href="https://arxiv.org/pdf/2403.15452">[Survey]</a></summary>
   <ol>
     <li>Leverage and improve programs</li>
       <ul>
