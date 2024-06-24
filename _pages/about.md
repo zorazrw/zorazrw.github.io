@@ -11,7 +11,7 @@ redirect_from:
 
 Welcome to Zora's home on the web :)
 ======
-I am currently a 1st/3rd year PhD student at the [Language Technologies Institute](https://www.lti.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) working with [Daniel Fried](https://dpfried.github.io/) and [Graham Neubig](https://www.phontron.com/). 
+I am currently a 1st year PhD student at the [Language Technologies Institute](https://www.lti.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) working with [Daniel Fried](https://dpfried.github.io/) and [Graham Neubig](https://www.phontron.com/). 
 My primary research interest is to build language models with interpretable and generalizable reasoning skills. 
 Particularly, I'm working on:
 
@@ -38,7 +38,7 @@ Particularly, I'm working on:
 
 News
 ------
-- _Jul 2024_: Will give a 3-hour tutorial about __Large Language Models for Tabular Data__ at SIGIR 2024. Stay tuned!
+- _Jun 2024_: We released a new benchmark [CodeRAG-Bench](https://code-rag-bench.github.io/) that enables versatile exploration with retrieval-augmented code generation
 - _May 2024_: Organized our [CMU Agent Workshop](https://cmu-agent-workshop.github.io/) 🤖 with plenty of events -- insightful tutorials, talks, and posters! I also gave two (short) tutorials about tool-augmented LMs and codegen testbeds.
 - _Mar 2024_: Gave a guest lecture about __Language Agents__ at the Advanced NLP course (11-711) course, check out the [recordings](https://www.youtube.com/watch?v=6NeTO61qc4M&list=PL8PYTP1V4I8DZprnWryM4nR8IZl1ZXDjg&pp=iAQB)!
 - _Mar 2024_: Gave a talk at the [_FLAME_ (Foundation and LAnguage Model) 🔥](https://cmuflame.org/) seminar about [our recent survey](https://zorazrw.github.io/files/WhatAreToolsAnyway.pdf) and [TroVE](https://arxiv.org/pdf/2401.12869.pdf)
@@ -79,7 +79,8 @@ I have studied macro-economical models for Central Bank Digital Currency (CBDC) 
 Academic Services
 ======
 - Reviewer: ACL, NAACL, EMNLP, EACL, AAAI, NeurIPS
-- Teaching Assistant for [11-711: Advanced Natural Language Processing](http://www.phontron.com/class/anlp2022/)
+- Chair of Faculty Hiring, Student Committee: Language Technologies Institute, CMU, 2024
+- Teaching Assistant for [11-711: Advanced Natural Language Processing](http://www.phontron.com/class/anlp2022/) and [11-891 Neural Code Generation](https://cmu-codegen.github.io/s2024/)
 - Organizing Committee: [Student Research Symposium](https://lti.cs.cmu.edu/SRS-2022), Language Technologies Institute (CMU), 2022
 
 
