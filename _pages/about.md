@@ -21,7 +21,7 @@ Particularly, I'm working on:
     <li>Leverage and improve programs</li>
       <ul>
         <li>Challenging benchmarks for open domain <a href="https://arxiv.org/abs/2212.10481">[ODEX]</a>, multilingual <a href="https://arxiv.org/abs/2203.08388">[MCoNaLa]</a>, and data science <a href="https://arxiv.org/abs/2108.06712">[HiTab]</a> problems</li>
-        <li>Performance code LMs <a href="https://arxiv.org/abs/2305.06161">[StarCoder]</a> with assistive <a href="https://arxiv.org/abs/2310.14687">[APIs]</a> and libraries in <a href="https://openreview.net/pdf?id=ZTCxT2t2Ru">[DocPrompting]</a></li>
+        <li>Performance code LMs <a href="https://arxiv.org/abs/2305.06161">[StarCoder]</a> with <a href="https://code-rag-bench.github.io/">[retrieval augmentation]</a>, assistive <a href="https://arxiv.org/abs/2310.14687">[APIs]</a>, and libraries in <a href="https://openreview.net/pdf?id=ZTCxT2t2Ru">[DocPrompting]</a></li>
       </ul>
     <li>Knowledge: retrieve texts <a href="https://arxiv.org/abs/2311.08377">[FilCo]</a> <a href="https://arxiv.org/abs/2212.02027">[ReAtt]</a> <a href="https://arxiv.org/abs/2403.09040">[RAGGED]</a> and structured data <a href="https://arxiv.org/abs/2205.09843">[WikiTable]</a> <a href="https://arxiv.org/abs/2010.12537">[TUTA]</a> <a href="https://ojs.aaai.org/index.php/AAAI/article/view/5681">[K-BERT]</a> </li>
     <li>Other modalities: act on images <a href="https://arxiv.org/abs/2401.12869">[TroVE]</a>, or map fixed LMs to images <a href="https://openreview.net/forum?id=CXPUg86A1D">[SPAE]</a></li>
