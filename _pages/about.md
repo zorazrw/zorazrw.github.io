@@ -38,6 +38,7 @@ Particularly, I'm working on:
 
 News
 ------
+- _Jul 2024_: Gave a tutorial at SIGIR about [Large Language Models for Tabular Data](https://llm4table-tutorial.github.io/), check out the slides&recordings if you're interested!
 - _Jun 2024_: We released a new benchmark [CodeRAG-Bench](https://code-rag-bench.github.io/) that enables versatile exploration with retrieval-augmented code generation
 - _May 2024_: Organized our [CMU Agent Workshop](https://cmu-agent-workshop.github.io/) 🤖 with plenty of events -- insightful tutorials, talks, and posters! I also gave two (short) tutorials about tool-augmented LMs and codegen testbeds.
 - _Mar 2024_: Gave a guest lecture about __Language Agents__ at the Advanced NLP course (11-711) course, check out the [recordings](https://www.youtube.com/watch?v=6NeTO61qc4M&list=PL8PYTP1V4I8DZprnWryM4nR8IZl1ZXDjg&pp=iAQB)!
