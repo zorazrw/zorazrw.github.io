@@ -43,12 +43,12 @@ News
 - _May 2024_: Organized our [CMU Agent Workshop](https://cmu-agent-workshop.github.io/) 🤖 with plenty of events -- insightful tutorials, talks, and posters! I also gave two (short) tutorials about tool-augmented LMs and codegen testbeds.
 - _Mar 2024_: Gave a guest lecture about __Language Agents__ at the Advanced NLP course (11-711) course, check out the [recordings](https://www.youtube.com/watch?v=6NeTO61qc4M&list=PL8PYTP1V4I8DZprnWryM4nR8IZl1ZXDjg&pp=iAQB)!
 - _Mar 2024_: Gave a talk at the [_FLAME_ (Foundation and LAnguage Model) 🔥](https://cmuflame.org/) seminar about [our recent survey](https://zorazrw.github.io/files/WhatAreToolsAnyway.pdf) and [TroVE](https://arxiv.org/pdf/2401.12869.pdf)
-- _Feb 2024_: Gave a talk about __Language Models with Tools__ at the _LLM as Agent_ Seminar, about [TroVE](https://arxiv.org/pdf/2401.12869.pdf) and works in progress 🤫
-- _Feb 2024_: Gave a lecture about __Evaluation (metrics and benchmarks)__ for the Neural Code Generation (11-891) course 💻
-- _Jan 2024_: TAing for the new course [11-891 Neural Code Generation](https://cmu-codegen.github.io/s2024/), reach out if you want to discuss more project ideas 🪄
 <details>
   <summary>🐾 Older News</summary>
   <ol>
+    <li><em>Feb 2024</em>: Gave a talk about __Language Models with Tools__ at the _LLM as Agent_ Seminar, about [TroVE](https://arxiv.org/pdf/2401.12869.pdf) and works in progress 🤫
+    <li><em>Feb 2024</em>: Gave a lecture about __Evaluation (metrics and benchmarks)__ for the Neural Code Generation (11-891) course 💻
+    <li><em>Jan 2024</em>: TAing for the new course [11-891 Neural Code Generation](https://cmu-codegen.github.io/s2024/), reach out if you want to discuss more project ideas 🪄
     <li><em>Nov 2023</em>: Gave a guest lecture about <b>Evaluation and Benchmarks for Code Generation</b> for the Advanced NLP course (11-711) 👩‍🏫 more details <a href="https://cmu-anlp.github.io/schedule/code-generation.html">[here]</a></li>
     <li><em>Aug 2023</em>: A talk about 🛠️ <b>Tool using, learning, and making with LLMs</b> at <em>Code Generation Reading Group</em>, check out the <a href="https://cmu.zoom.us/rec/share/cI-aFYHoIL0fir4KeKwiVladDrUPrdtTWGeXvcg42-UryelmAW3QTW5ASrd9QmO0.Sz5hB9sIrPd2s_UT">[video]</a></li>
     <li><em>Apr 2023</em>: Gave a talk about <a href="https://arxiv.org/pdf/2212.10481.pdf">[ODEX]</a> at the Machine Learning Methods in Software Engineering <a href="https://www.youtube.com/watch?v=xQxGyzcw7H4">(video)</a> hosted by JetBrains Research Team 👩‍💻</li>
