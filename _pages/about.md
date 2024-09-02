@@ -12,7 +12,7 @@ redirect_from:
 Welcome to Zora's home on the web :)
 ======
 I am currently a 2nd/4th year PhD student at the [Language Technologies Institute](https://www.lti.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) working with [Daniel Fried](https://dpfried.github.io/) and [Graham Neubig](https://www.phontron.com/). 
-My primary research interest is to build language models with interpretable and generalizable reasoning skills. 
+My primary research interest is to use programmatic approaches to solve real-world tasks. 
 Particularly, I'm working on:
 
 <details>
