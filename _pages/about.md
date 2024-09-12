@@ -31,13 +31,14 @@ Particularly, I'm working on:
 <details>
   <summary><b>Agent(ic System)s that Automate Human Labor</b></summary>
   <ol>
-    <li>Using LMs to do human tasks: e.g., data analysis <a href="https://arxiv.org/abs/2108.06712">[HiTab]</a> software programming <a href="https://arxiv.org/abs/2212.10481">[ODEX]</a></li>
+    <li>Using LMs to do human tasks: e.g., data analysis <a href="https://arxiv.org/abs/2108.06712">[HiTab]</a> software programming <a href="https://arxiv.org/abs/2212.10481">[ODEX]</a> web navigation <a href="https://arxiv.org/abs/2409.07429">[AWM]</a></li>
     <li>Facilitate human verification: increase accuracy and accelerate the process <a href="https://arxiv.org/abs/2401.12869">[TroVE]</a></li>
   </ol>
 </details>
 
 News
 ------
+- _Sep 2024_: Check out our new work [Agent Workflow Memory](https://arxiv.org/abs/2409.07429) 🎉
 - _Jul 2024_: Gave a tutorial at SIGIR about [Large Language Models for Tabular Data](https://llm4table-tutorial.github.io/), check out the slides&recordings if you're interested!
 - _Jun 2024_: We released a new benchmark [CodeRAG-Bench](https://code-rag-bench.github.io/) that enables versatile exploration with retrieval-augmented code generation
 - _May 2024_: Organized our [CMU Agent Workshop](https://cmu-agent-workshop.github.io/) 🤖 with plenty of events -- insightful tutorials, talks, and posters! I also gave two (short) tutorials about tool-augmented LMs and codegen testbeds.
