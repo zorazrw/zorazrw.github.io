@@ -59,10 +59,8 @@ News
 
 Get Connected
 ------
-- If you want to get connected, discuss potential project ideas, ask about CMU application, or any other relevant topics, you can book a 15-minute meeting via [calendly](https://calendly.com/zorazrw/15-min-meeting).
-- If you are taking 11-891 (neural code generation) and want to chat about project ideas, my office hours are available every Friday 4-5 pm EST.
-- I often mentor a few students every semester. If you are an undergrad/master's student at CMU and interested in NLP, please reach out to me by email.
-- If you are from underrepresented groups, or do not have much research experience, you are encouraged to reach out!
+- If you want to get connected, discuss potential project ideas, ask about CMU application, or chat about any other relevant topics, my office hours are available every Friday 4-5 pm EST. Email me to secure a time to chat!
+- I often mentor a few students every semester. If you are an undergrad/master's student at CMU and interested in NLP, please reach out to me by email. If you are from underrepresented groups, or do not have much research experience, you are encouraged to reach out!
 
 NLP Research Experience
 ------
