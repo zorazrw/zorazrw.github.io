@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhiruo Wang, 王芷若"
+title                    : "Zora Wang, 王芷若"
 title_separator          : "-"
-name                     : &name "Zhiruo Wang, 王芷若"
+name                     : &name "Zora Wang, 王芷若"
 description              : &description "PhD, LTI@CMU"
 url                      : "https://zorazrw.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
