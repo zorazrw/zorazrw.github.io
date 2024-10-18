@@ -38,15 +38,17 @@ Particularly, I'm working on:
 
 News
 ------
+- _Oct 2024_: Joined the panelist of [OurCS 2024](https://www.cmu.edu/cs/ourcs/) (Workshop for Undergraduates in CS) and shared some of my thoughts about research
+- _Sep 2024_: Gave an invited talk at Camel-AI 🐪 about [Agent Workflow Memory](https://arxiv.org/abs/2409.07429) 
 - _Sep 2024_: Check out our new work [Agent Workflow Memory](https://arxiv.org/abs/2409.07429) 🎉
 - _Jul 2024_: Gave a tutorial at SIGIR about [Large Language Models for Tabular Data](https://llm4table-tutorial.github.io/), check out the slides&recordings if you're interested!
 - _Jun 2024_: We released a new benchmark [CodeRAG-Bench](https://code-rag-bench.github.io/) that enables versatile exploration with retrieval-augmented code generation
 - _May 2024_: Organized our [CMU Agent Workshop](https://cmu-agent-workshop.github.io/) 🤖 with plenty of events -- insightful tutorials, talks, and posters! I also gave two (short) tutorials about tool-augmented LMs and codegen testbeds.
 - _Mar 2024_: Gave a guest lecture about __Language Agents__ at the Advanced NLP course (11-711) course, check out the [recordings](https://www.youtube.com/watch?v=6NeTO61qc4M&list=PL8PYTP1V4I8DZprnWryM4nR8IZl1ZXDjg&pp=iAQB)!
-- _Mar 2024_: Gave a talk at the [_FLAME_ (Foundation and LAnguage Model) 🔥](https://cmuflame.org/) seminar about [our recent survey](https://zorazrw.github.io/files/WhatAreToolsAnyway.pdf) and [TroVE](https://arxiv.org/pdf/2401.12869.pdf)
 <details>
   <summary>🐾 Older News</summary>
   <ol>
+    <li><em>Mar 2024</em>: Gave a talk at the <a href="https://cmuflame.org/">[FLAME_ (Foundation and LAnguage Model) 🔥]</a> seminar, about <a href="https://arxiv.org/pdf/2403.15452">[our recent survey]</a> and <a href="https://arxiv.org/pdf/2401.12869.pdf">[TroVE]</a> </li>
     <li><em>Feb 2024</em>: Gave a talk about <b>Language Models with Tools</b> at the <em>LLM as Agent</em> Seminar, about <a href="https://arxiv.org/pdf/2401.12869.pdf">[TroVE]</a> and works in progress 🤫 </li>
     <li><em>Feb 2024</em>: Gave a lecture about <b>Evaluation (metrics and benchmarks)</b> for the Neural Code Generation (11-891) course 💻 </li>
     <li><em>Jan 2024</em>: TAing for the new course <a href="https://cmu-codegen.github.io/s2024/">[11-891 Neural Code Generation]</a>, reach out if you want to discuss more project ideas 🪄 </li>
