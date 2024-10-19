@@ -36,6 +36,8 @@ Particularly, I'm working on:
   </ol>
 </details>
 
+I'm looking for internships for summer 2025! Feel free to reach out and find my CV [here](https://zorazrw.github.io/files/zora_resume_2024.pdf).
+
 News
 ------
 - _Oct 2024_: Joined the panelist of [OurCS 2024](https://www.cmu.edu/cs/ourcs/) (Workshop for Undergraduates in CS) and shared some of my thoughts about research
