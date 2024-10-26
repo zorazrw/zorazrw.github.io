@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Personal Website</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <!-- Top Banner with Navigation Links -->
+    <header class="banner">
+        <nav class="navbar">
+            <a href="index.html" class="nav-link">Home</a>
+            <a href="files/zora_cv_2024.pdf" class="nav-link">CV</a>
+            <a href="teaching.html" class="nav-link">Teaching</a>
+            <a href="talks.html" class="nav-link">Talks & Services</a>
+            <a href="faq.html" class="nav-link">FAQ</a>
+        </nav>
+    </header>
+
+    <!-- Intro Section -->
+    <section id="intro" class="intro-container">
+        <div class="profile-photo">
+            <img src="images/profile.jpg" alt="Profile Picture">
+        </div>
+        <div class="intro-text">
+            <h1>Zora (Zhiruo) Wang</h1>
+            <h1>王芷若</h1>
+            <div class="social-icons">
+                <a href="https://scholar.google.com/citations?hl=en&user=K2hRQgUAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" aria-label="Google Scholar"><i class="fab fa-google"></i></a>
+                <a href="https://x.com/ZhiruoW" target="_blank" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
+                <a href="https://www.linkedin.com/in/zorazrw" target="_blank" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a>
+                <a href="https://github.com/zorazrw" target="_blank" aria-label="GitHub"><i class="fab fa-github"></i></a>
+                <a href="mailto:zhiruow@cs.cmu.edu" aria-label="Email"><i class="fas fa-envelope"></i></a>
+            </div>
+        </div>
+        <div class="school-info">
+            <h1>PhD Student</h1>
+            <p>Carnegie Mellon University</p>
+            <p>Language Technologies Institute</p>
+        </div>
+    </section>
+
+    <!-- Brief Intro Paragraph -->
+    <section id="about" class="section">
+        <h2>About Me</h2>
+        <p>
+            I am currently a 2nd year PhD student at the Language Technologies Institute at Carnegie Mellon University working with <a href="https://dpfried.github.io/">Daniel Fried</a> and <a href="https://www.phontron.com/">Graham Neubig</a>. My primary research interest is to use programmatic approaches to solve real-world tasks. Particularly, I am working on:
+        </p>
+        <details>
+            <summary><b>Augmented Language Models</b> <a href="https://arxiv.org/pdf/2403.15452">[Survey]</a></summary>
+            <ol>
+              <li>Leverage and improve programs</li>
+                <ul>
+                  <li>Challenging benchmarks for open domain <a href="https://arxiv.org/abs/2212.10481">[ODEX]</a>, multilingual <a href="https://arxiv.org/abs/2203.08388">[MCoNaLa]</a>, and data science <a href="https://arxiv.org/abs/2108.06712">[HiTab]</a> problems</li>
+                  <li>Performance code LMs <a href="https://arxiv.org/abs/2305.06161">[StarCoder]</a> with <a href="https://code-rag-bench.github.io/">[retrieval augmentation]</a>, assistive <a href="https://arxiv.org/abs/2310.14687">[APIs]</a>, and libraries in <a href="https://openreview.net/pdf?id=ZTCxT2t2Ru">[DocPrompting]</a></li>
+                </ul>
+              <li>Knowledge: retrieve texts <a href="https://arxiv.org/abs/2311.08377">[FilCo]</a> <a href="https://arxiv.org/abs/2212.02027">[ReAtt]</a> <a href="https://arxiv.org/abs/2403.09040">[RAGGED]</a> and structured data <a href="https://arxiv.org/abs/2205.09843">[WikiTable]</a> <a href="https://arxiv.org/abs/2010.12537">[TUTA]</a> <a href="https://ojs.aaai.org/index.php/AAAI/article/view/5681">[K-BERT]</a> </li>
+              <li>Other modalities: act on images <a href="https://arxiv.org/abs/2401.12869">[TroVE]</a>, or map fixed LMs to images <a href="https://openreview.net/forum?id=CXPUg86A1D">[SPAE]</a></li>
+            </ol>
+        </details>
+          
+        <details>
+            <summary><b>Agent(ic System)s that Automate Human Labor</b></summary>
+            <ol>
+              <li>Using LMs to do human tasks: e.g., data analysis <a href="https://arxiv.org/abs/2108.06712">[HiTab]</a> software programming <a href="https://arxiv.org/abs/2212.10481">[ODEX]</a> web navigation <a href="https://arxiv.org/abs/2409.07429">[AWM]</a></li>
+              <li>Facilitate human verification: increase accuracy and accelerate the process <a href="https://arxiv.org/abs/2401.12869">[TroVE]</a></li>
+            </ol>
+        </details>
+        <p>I am currently looking for internships for summer 2025. Feel free to reach out for chat and/or check out my <a href="">CV here</a>.</p>
+    </section>
+
+    <!-- News Section -->
+    <section id="news" class="section">
+        <h2>News</h2>
+        <ul>
+            <li> Oct 2024: Joined the panelist of <a href="https://www.cmu.edu/cs/ourcs/">Our CS</a> (Workshop for Undergraduates in CS) and shared some of my thoughts about research </li>
+            <li> Sep 2024: Gave an invited talk at Camel-AI 🐪 about Agent Workflow Memory, check out the <a href="https://t.co/RJnyEOfB8q">video</a>, <a href="https://arxiv.org/abs/2409.07429">paper</a>, and <a href="https://x.com/ZhiruoW/status/1834215465683415243">tweet</a> </li>
+            <li> Jul 2024: Gave a tutorial at SIGIR about <a href="https://llm4table-tutorial.github.io/">Large Language Models for Tabular Data</a>, check out the slides & recordings if you're interested! </li>
+            <li> Jun 2024: We released a new benchmark <a href="https://code-rag-bench.github.io/">CodeRAG-Bench</a> that enables versatile exploration with retrieval-augmented code generation </li>
+            <li> May 2024: Organized our <a href="https://cmu-agent-workshop.github.io/">CMU Agent Workshop</a> 🤖 with plenty of events -- insightful tutorials, talks, and posters! I also gave two (short) tutorials about tool-augmented LMs and codegen testbeds. </li>
+            <li> Mar 2024: Gave a guest lecture about "Language Agents and Tool Use" at the Advanced NLP course (11-711) course, check out the <a href="https://www.youtube.com/watch?v=6NeTO61qc4M&list=PL8PYTP1V4I8DZprnWryM4nR8IZl1ZXDjg&pp=iAQB">recordings</a>!
+        </ul>
+        <details>
+            <summary>🐾 Older News</summary>
+            <li>Mar 2024: Gave a talk at the <a href="https://cmuflame.org/">[FLAME_ (Foundation and LAnguage Model) 🔥]</a> seminar, about <a href="https://arxiv.org/pdf/2403.15452">[our recent survey]</a> and <a href="https://arxiv.org/pdf/2401.12869.pdf">[TroVE]</a> </li>
+            <li>Feb 2024: Gave a talk about <b>Language Models with Tools</b> at the <em>LLM as Agent</em> Seminar, about <a href="https://arxiv.org/pdf/2401.12869.pdf">[TroVE]</a> and works in progress 🤫 </li>
+            <li>Feb 2024: Gave a lecture about <b>Evaluation (metrics and benchmarks)</b> for the Neural Code Generation (11-891) course 💻 </li>
+            <li>Jan 2024: TAing for the new course <a href="https://cmu-codegen.github.io/s2024/">[11-891 Neural Code Generation]</a>, reach out if you want to discuss more project ideas 🪄 </li>
+            <li>Nov 2023: Gave a guest lecture about <b>Evaluation and Benchmarks for Code Generation</b> for the Advanced NLP course (11-711) 👩‍🏫 more details <a href="https://cmu-anlp.github.io/schedule/code-generation.html">[here]</a></li>
+            <li>Aug 2023: A talk about 🛠️ <b>Tool using, learning, and making with LLMs</b> at <em>Code Generation Reading Group</em>, check out the <a href="https://cmu.zoom.us/rec/share/cI-aFYHoIL0fir4KeKwiVladDrUPrdtTWGeXvcg42-UryelmAW3QTW5ASrd9QmO0.Sz5hB9sIrPd2s_UT">[video]</a></li>
+            <li>Apr 2023: Gave a talk about <a href="https://arxiv.org/pdf/2212.10481.pdf">[ODEX]</a> at the Machine Learning Methods in Software Engineering <a href="https://www.youtube.com/watch?v=xQxGyzcw7H4">(video)</a> hosted by JetBrains Research Team 👩‍💻</li>
+          </details>
+    </section>
+
+    <!-- Recent Publications -->
+    <section id="recent-pub" class="section">
+        <h2>My Recent Favorite Publications</h2>
+        <div class="pub-container">
+            <div class="pub-item">
+                <img src="images/awm.jpg" alt="Agent Workflow Memory" width="200px">
+                <p>
+                    Agent Workflow Memory 
+                    <a href="https://arxiv.org/abs/2409.07429" aria-label="Link to publication"><i class="fa-solid fa-paperclip"></i></a>
+                </p>
+            </div>
+            <div class="pub-item">
+                <img src="images/survey.jpg" alt="Survey on Language Models" width="200px">
+                <p>
+                    What Are Tools Anyway? A Survey from the Language Model Perspective 
+                    <a href="https://arxiv.org/pdf/2403.15452" aria-label="Link to publication"><i class="fa-solid fa-paperclip"></i></a>
+                </p>
+            </div>
+            <div class="pub-item">
+                <img src="images/trove.jpg" alt="TroVE Took Making" width="200px">
+                <p>
+                    TroVE: Inducing Verifiable and Efficient Toolboxes for Solving Programmatic Tasks
+                    <a href="https://arxiv.org/abs/2401.12869" aria-label="Link to publication"><i class="fa-solid fa-paperclip"></i></a>
+                </p>
+            </div>
+        </div>
+    </section>
+    
+
+    <!-- Get Connected Section -->
+    <section id="connected" class="section">
+        <h2>Get Connected</h2>
+        <p>If you want to get connected, discuss potential project ideas, ask about CMU application, or chat about any other relevant topics, my office hours are available every Friday 4-5 pm EST. Email me to secure a time to chat!</p>
+        <p>I often mentor a small number of students every semester. However, as I got plenty of emails, I might not be able to reply to all of them.</p>
+        <p>If you are from underrepresented groups, or do not have much research experience, you are encouraged to reach out!</p>
+    </section>
+    
+    <!-- My Name Section -->
+    <section id="my-name" class="section">
+        <h2>If You're Interested in My Name</h2>
+        <p>My name in Chinese is 王芷若, which reads as Wang, Zhiruo. It is usually hard for non-native speakers to pronounce, so you can also call me Zora (as ZR is similar to Zhi Ruo).</p>
+        <p>I love my name, especially in Chinese characters, since it has a more beautiful meaning than in English alphabets. 芷 stands for 白芷 (Angelica dahurica) and 若 stands for 杜若 (Pollia japonica), which are two kinds of Chinese herbal medicine. Also, <a href="https://baike.baidu.hk/item/%E8%8A%B7%E8%8B%A5/6244995">芷若</a> is a beautiful vanilla 🌿</p>
+    </section>
+        
