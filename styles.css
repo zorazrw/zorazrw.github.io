@@ -39,7 +39,7 @@ body {
 }
 
 .navbar .nav-link:hover {
-    color: #007acc;
+    color: #f4a261;
 }
 
 /* Intro Section */
@@ -85,7 +85,7 @@ body {
 }
 
 .social-icons a:hover {
-    color: #007acc;
+    color: #f4a261;
 }
 
 .school-info {
@@ -176,13 +176,13 @@ body {
 }
 
 .section a {
-    color: #007acc;
+    color: #f4a261;
     text-decoration: none;
     transition: color 0.2s ease;
 }
 
 .section a:hover {
-    color: #0056b3;
+    color: #e76f51;
     text-decoration: underline;
 }
 
@@ -227,7 +227,7 @@ h1 {
 }
 
 .pub-item a {
-    color: #007acc;
+    color: #f4a261;
     margin-left: 8px;
 }
 
@@ -254,7 +254,7 @@ h1 {
 .pub-item .pub-venue {
     font-weight: 500;
     font-size: 0.9rem;
-    color: #007acc;
+    color: #f4a261;
     line-height: 1.4;
     margin-bottom: 0;
 }
