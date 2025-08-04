@@ -6,10 +6,14 @@
 }
 
 body {
-    font-family: 'Merriweather', 'Palatino Linotype', serif;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
     background-color: #fff;
     color: #333;
     line-height: 1.6;
+    font-weight: 400;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 /* Top Banner / Navigation */
@@ -23,8 +27,9 @@ body {
     margin: 0 40px;
     text-decoration: none;
     color: white;
-    font-weight: bold;
+    font-weight: 600;
     font-size: 1.2rem;
+    letter-spacing: 0.02em;
 }
 
 /* Intro Section */
@@ -50,7 +55,7 @@ body {
 
 .social-icons a {
     margin: 0 10px;
-    font-size: 1.5rem;
+    font-size: 1.6rem;
     color: #1DA1F2; /* Twitter's official color */
     text-decoration: none;
     transition: color 0.3s;
@@ -62,20 +67,49 @@ body {
 
 .section h2 {
     margin-bottom: 15px; /* Space below the heading */
+    font-weight: 600;
+    font-size: 1.8rem;
+    letter-spacing: -0.02em;
 }
 
 .section p {
     line-height: 1.6; /* Adjust line height for better readability */
     margin-bottom: 15px; /* Space between paragraphs */
+    font-weight: 400;
+    font-size: 1.1rem;
 }
 
 .section details {
     margin-bottom: 20px; /* Space between details sections */
 }
 
+.section summary {
+    font-weight: 600;
+    font-size: 1.2rem;
+    cursor: pointer;
+    padding: 8px 0;
+}
+
+.section ol, .section ul {
+    font-size: 1.1rem;
+    line-height: 1.7;
+}
+
+.section li {
+    margin-bottom: 8px;
+}
+
 .school-info {
     margin-left: auto; /* Push this div to the right */
     text-align: right;
+}
+
+.school-info h1 {
+    font-size: 1.6rem;
+}
+
+.school-info p {
+    font-size: 1.1rem;
 }
 
 /* Section Styling */
@@ -88,6 +122,14 @@ body {
 h1, h2 {
     margin-bottom: 15px;
     color: #333;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 1.8rem;
+    letter-spacing: -0.03em;
 }
 
 .pub-container {
@@ -105,6 +147,10 @@ h1, h2 {
     margin-right: 15px;       /* Space between image and text */
 }
 
+.pub-item p {
+    font-weight: 500;
+    font-size: 1.1rem;
+}
 
 .recent-works {
     display: flex; /* Use flexbox for columns */
@@ -146,6 +192,8 @@ h1, h2 {
     color: white;
     text-decoration: none;
     border-radius: 5px;
+    font-weight: 500;
+    font-size: 1.1rem;
 }
 
 /* Footer */
