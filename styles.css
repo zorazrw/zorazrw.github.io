@@ -14,114 +14,181 @@ body {
     font-size: 16px;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 20px;
 }
 
 /* Top Banner / Navigation */
 .banner {
-    background: linear-gradient(to bottom right, #f4d35e, #f4e285);
-    padding: 10px 0;
+    background: transparent;
+    padding: 30px 0 20px 0;
     text-align: center;
+    border-bottom: 1px solid #e1e5e9;
+    margin-bottom: 40px;
 }
 
 .navbar .nav-link {
-    margin: 0 40px;
+    margin: 0 30px;
     text-decoration: none;
-    color: white;
-    font-weight: 600;
+    color: #333;
+    font-weight: 500;
     font-size: 1.2rem;
     letter-spacing: 0.02em;
+    transition: color 0.2s ease;
+}
+
+.navbar .nav-link:hover {
+    color: #007acc;
 }
 
 /* Intro Section */
 .intro-container {
     display: flex;
-    align-items: center;
-    padding: 50px;
+    align-items: flex-start;
+    padding: 0;
     max-width: 900px;
-    margin: 0 auto;
-    gap: 30px;
+    margin: 0 auto 50px auto;
+    gap: 40px;
 }
 
 .profile-photo img {
-    width: 200px;
-    height: 200px;
+    width: 180px;
+    height: 180px;
     border-radius: 50%;
     object-fit: cover;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.intro-text h1 {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 10px;
+    color: #1a1a1a;
+    letter-spacing: -0.03em;
+}
+
+.intro-text h1:last-of-type {
+    font-family: "KaiTi", "楷体", "STKaiti", "华文楷体", "SimKai", serif;
 }
 
 .social-icons {
-    margin-top: 10px;
+    margin-top: 20px;
 }
 
 .social-icons a {
-    margin: 0 10px;
-    font-size: 1.6rem;
-    color: #1DA1F2; /* Twitter's official color */
+    margin: 0 15px 0 0;
+    font-size: 1.4rem;
+    color: #666;
     text-decoration: none;
-    transition: color 0.3s;
+    transition: color 0.2s ease;
 }
 
 .social-icons a:hover {
-    color: #0d8ddf; /* Slightly darker blue for hover effect */
-}
-
-.section h2 {
-    margin-bottom: 15px; /* Space below the heading */
-    font-weight: 600;
-    font-size: 1.8rem;
-    letter-spacing: -0.02em;
-}
-
-.section p {
-    line-height: 1.6; /* Adjust line height for better readability */
-    margin-bottom: 15px; /* Space between paragraphs */
-    font-weight: 400;
-    font-size: 1.1rem;
-}
-
-.section details {
-    margin-bottom: 20px; /* Space between details sections */
-}
-
-.section summary {
-    font-weight: 600;
-    font-size: 1.2rem;
-    cursor: pointer;
-    padding: 8px 0;
-}
-
-.section ol, .section ul {
-    font-size: 1.1rem;
-    line-height: 1.7;
-}
-
-.section li {
-    margin-bottom: 8px;
+    color: #007acc;
 }
 
 .school-info {
-    margin-left: auto; /* Push this div to the right */
+    margin-left: auto;
     text-align: right;
+    flex-shrink: 0;
 }
 
 .school-info h1 {
-    font-size: 1.6rem;
+    font-size: 1.7rem;
+    font-weight: 600;
+    margin-bottom: 8px;
+    color: #666;
 }
 
 .school-info p {
-    font-size: 1.1rem;
+    font-size: 1.2rem;
+    color: #666;
+    margin-bottom: 4px;
+    line-height: 1.4;
 }
 
 /* Section Styling */
 .section {
+    padding: 0;
+    max-width: 900px;
+    margin: 0 auto 50px auto;
+}
+
+.section h2 {
+    margin-bottom: 25px;
+    font-weight: 600;
+    font-size: 1.6rem;
+    letter-spacing: -0.02em;
+    color: #1a1a1a;
+    border-bottom: 2px solid #e1e5e9;
+    padding-bottom: 10px;
+}
+
+.section p {
+    line-height: 1.7;
+    margin-bottom: 20px;
+    font-weight: 400;
+    font-size: 1.1rem;
+    color: #333;
+}
+
+.section details {
+    margin-bottom: 25px;
+    border: 1px solid #e1e5e9;
+    border-radius: 8px;
+    padding: 0;
+}
+
+.section summary {
+    font-weight: 600;
+    font-size: 1.1rem;
+    cursor: pointer;
+    padding: 15px 20px;
+    background-color: #f8f9fa;
+    border-radius: 8px 8px 0 0;
+    color: #1a1a1a;
+    transition: background-color 0.2s ease;
+}
+
+.section summary:hover {
+    background-color: #e9ecef;
+}
+
+.section details[open] summary {
+    border-bottom: 1px solid #e1e5e9;
+    border-radius: 8px 8px 0 0;
+}
+
+.section details > div {
     padding: 20px;
-    max-width: 800px;
-    margin: 0 auto;
+}
+
+.section ol, .section ul {
+    font-size: 1rem;
+    line-height: 1.7;
+    padding-left: 20px;
+}
+
+.section li {
+    margin-bottom: 12px;
+    color: #333;
+}
+
+.section a {
+    color: #007acc;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+.section a:hover {
+    color: #0056b3;
+    text-decoration: underline;
 }
 
 h1, h2 {
     margin-bottom: 15px;
-    color: #333;
+    color: #1a1a1a;
     font-weight: 600;
     letter-spacing: -0.02em;
 }
@@ -132,74 +199,152 @@ h1 {
     letter-spacing: -0.03em;
 }
 
+/* Publications Section */
 .pub-container {
-    display: flex;              /* Use flexbox for layout */
-    flex-direction: column;     /* Arrange items in a column */
-    gap: 20px;                 /* Space between items */
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
 }
 
 .pub-item {
-    display: flex;             /* Use flex for the image and text */
-    align-items: center;       /* Vertically center items */
+    display: flex;
+    align-items: flex-start;
+    padding: 20px;
+    border: 1px solid #e1e5e9;
+    border-radius: 8px;
+    background-color: #fff;
+    transition: box-shadow 0.2s ease;
+}
+
+.pub-item:hover {
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
 }
 
 .pub-item img {
-    margin-right: 15px;       /* Space between image and text */
+    margin-right: 20px;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
-.pub-item p {
+.pub-item a {
+    color: #007acc;
+    margin-left: 8px;
+}
+
+.pub-info {
+    flex: 1;
+}
+
+.pub-item .pub-title {
+    font-weight: 600;
+    font-size: 1.2rem;
+    color: #1a1a1a;
+    line-height: 1.4;
+    margin-bottom: 6px;
+}
+
+.pub-item .pub-authors {
+    font-weight: 400;
+    font-size: 0.95rem;
+    color: #666;
+    line-height: 1.4;
+    margin-bottom: 4px;
+}
+
+.pub-item .pub-venue {
     font-weight: 500;
+    font-size: 0.9rem;
+    color: #007acc;
+    line-height: 1.4;
+    margin-bottom: 0;
+}
+
+/* News Section */
+#news ul {
+    list-style: none;
+    padding: 0;
+}
+
+#news li {
+    margin-bottom: 6px;
+    padding-bottom: 0;
+    border-bottom: none;
     font-size: 1.1rem;
 }
 
-.recent-works {
-    display: flex; /* Use flexbox for columns */
-    align-items: center; /* Center items vertically */
-    gap: 10px; /* Space between the columns */
+#news li:last-child {
+    border-bottom: none;
 }
 
-.student-container {
-    margin: 0 auto;
-    max-width: 800px;
-    padding: 20px;
-}
-
-.students-row {
-    display: flex; /* Use flexbox for columns */
-    align-items: center; /* Center items vertically */
-    gap: 10px; /* Space between the columns */
-}
-
-.student {
-    flex: 1;
-    align-items: center; /* Center items vertically */
-    max-width: 800px;
-    margin: 0 auto;
-    gap: 10px;
-}
-
-.duration {
-    margin-left: auto; /* Push this div to the right */
-    text-align: right;
+#upcoming li {
+    font-size: 1.1rem;
 }
 
 /* Buttons */
 .btn {
     display: inline-block;
     margin: 10px;
-    padding: 10px 20px;
-    background-color: #FF6347;
+    padding: 12px 24px;
+    background-color: #007acc;
     color: white;
     text-decoration: none;
-    border-radius: 5px;
+    border-radius: 6px;
     font-weight: 500;
-    font-size: 1.1rem;
+    font-size: 1rem;
+    transition: background-color 0.2s ease;
+}
+
+.btn:hover {
+    background-color: #0056b3;
 }
 
 /* Footer */
 footer {
     text-align: center;
-    padding: 50px;
-    background-color: #FF7F50;
-    color: white;
+    padding: 40px 0;
+    background-color: transparent;
+    color: #666;
+    border-top: 1px solid #e1e5e9;
+    margin-top: 60px;
+}
+
+.student-container {
+    margin: 0 auto;
+    max-width: 900px;
+    padding: 0;
+}
+
+.students-row {
+    display: flex;
+    gap: 30px;
+    margin-bottom: 20px;
+}
+
+.students-row .name,
+.students-row .program,
+.students-row .duration {
+    font-size: 1rem;
+    line-height: 1.6;
+}
+
+.students-row .name {
+    flex: 1;
+    font-weight: 600;
+    color: #1a1a1a;
+}
+
+.students-row .program {
+    flex: 2;
+    color: #333;
+}
+
+.students-row .duration {
+    flex: 1;
+    color: #666;
+    text-align: right;
+}
+
+.students-row p {
+    margin-bottom: 12px;
+    padding: 0;
 }
