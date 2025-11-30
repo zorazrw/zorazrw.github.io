@@ -6,12 +6,12 @@
 }
 
 body {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    font-family: 'Poppins', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
     background-color: #fff;
     color: #333;
     line-height: 1.6;
     font-weight: 400;
-    font-size: 16px;
+    font-size: 14px;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     max-width: 900px;
@@ -22,18 +22,19 @@ body {
 /* Top Banner / Navigation */
 .banner {
     background: transparent;
-    padding: 30px 0 20px 0;
+    padding: 10px 0 10px 0;
     text-align: center;
+    border-top: 1px solid #e1e5e9;
     border-bottom: 1px solid #e1e5e9;
     margin-bottom: 40px;
 }
 
 .navbar .nav-link {
-    margin: 0 30px;
+    margin: 0 60px;
     text-decoration: none;
     color: #333;
     font-weight: 500;
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     letter-spacing: 0.02em;
     transition: color 0.2s ease;
 }
@@ -48,7 +49,7 @@ body {
     align-items: flex-start;
     padding: 0;
     max-width: 900px;
-    margin: 0 auto 50px auto;
+    margin: 40px auto 20px auto;
     gap: 40px;
 }
 
@@ -70,15 +71,16 @@ body {
 
 .intro-text h1:last-of-type {
     font-family: "KaiTi", "楷体", "STKaiti", "华文楷体", "SimKai", serif;
+    margin-bottom: 8px;
 }
 
 .social-icons {
-    margin-top: 20px;
+    margin-top: 12px;
 }
 
 .social-icons a {
     margin: 0 15px 0 0;
-    font-size: 1.4rem;
+    font-size: 1.3rem;
     color: #666;
     text-decoration: none;
     transition: color 0.2s ease;
@@ -95,14 +97,14 @@ body {
 }
 
 .school-info h1 {
-    font-size: 1.7rem;
+    font-size: 1.5rem;
     font-weight: 600;
     margin-bottom: 8px;
     color: #666;
 }
 
 .school-info p {
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     color: #666;
     margin-bottom: 4px;
     line-height: 1.4;
@@ -118,7 +120,7 @@ body {
 .section h2 {
     margin-bottom: 25px;
     font-weight: 600;
-    font-size: 1.6rem;
+    font-size: 1.4rem;
     letter-spacing: -0.02em;
     color: #1a1a1a;
     border-bottom: 2px solid #e1e5e9;
@@ -129,7 +131,7 @@ body {
     line-height: 1.7;
     margin-bottom: 20px;
     font-weight: 400;
-    font-size: 1.1rem;
+    font-size: 1rem;
     color: #333;
 }
 
@@ -142,9 +144,9 @@ body {
 
 .section summary {
     font-weight: 600;
-    font-size: 1.1rem;
+    font-size: 1rem;
     cursor: pointer;
-    padding: 15px 20px;
+    padding: 10px 20px 10px 20px;
     background-color: #f8f9fa;
     border-radius: 8px 8px 0 0;
     color: #1a1a1a;
@@ -195,7 +197,7 @@ h1, h2 {
 
 h1 {
     font-weight: 700;
-    font-size: 1.8rem;
+    font-size: 1.6rem;
     letter-spacing: -0.03em;
 }
 
@@ -237,7 +239,7 @@ h1 {
 
 .pub-item .pub-title {
     font-weight: 600;
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     color: #1a1a1a;
     line-height: 1.4;
     margin-bottom: 6px;
@@ -245,7 +247,7 @@ h1 {
 
 .pub-item .pub-authors {
     font-weight: 400;
-    font-size: 0.95rem;
+    font-size: 0.9rem;
     color: #666;
     line-height: 1.4;
     margin-bottom: 4px;
@@ -253,7 +255,7 @@ h1 {
 
 .pub-item .pub-venue {
     font-weight: 500;
-    font-size: 0.9rem;
+    font-size: 0.85rem;
     color: #f4a261;
     line-height: 1.4;
     margin-bottom: 0;
@@ -269,7 +271,7 @@ h1 {
     margin-bottom: 6px;
     padding-bottom: 0;
     border-bottom: none;
-    font-size: 1.1rem;
+    font-size: 1rem;
 }
 
 #news li:last-child {
@@ -277,7 +279,7 @@ h1 {
 }
 
 #upcoming li {
-    font-size: 1.1rem;
+    font-size: 1rem;
 }
 
 /* Buttons */
@@ -309,7 +311,7 @@ footer {
 }
 
 .title-figure-container {
-    margin: 0 auto 50px auto;
+    margin: 0 auto 32px auto;
     max-width: 900px;
     padding: 0;
     text-align: center;
@@ -362,7 +364,7 @@ footer {
 }
 
 .student-program {
-    font-size: 0.9rem;
+    font-size: 0.85rem;
     color: #666;
     line-height: 1.4;
 }

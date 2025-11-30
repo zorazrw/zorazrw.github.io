@@ -6,20 +6,10 @@
     <title>Homepage | Zora Wang</title>
     <link rel="icon" href="images/cat.png" type="image/png">
     <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 </head>
 <body>
-    <!-- Top Banner with Navigation Links -->
-    <header class="banner">
-        <nav class="navbar">
-            <a href="index.html" class="nav-link">Home</a>
-            <a href="talks.html" class="nav-link">Talks</a>
-            <a href="people.html" class="nav-link">People</a>
-            <a href="files/zora_cv_2024.pdf" class="nav-link">CV</a>
-            <a href="faq.html" class="nav-link">FAQ</a>
-        </nav>
-    </header>
-
     <!-- Intro Section -->
     <section id="intro" class="intro-container">
         <div class="profile-photo">
@@ -29,7 +19,7 @@
             <h1>Zora (Zhiruo) Wang</h1>
             <h1>王芷若</h1>
             <div class="social-icons">
-                <a href="https://scholar.google.com/citations?hl=en&user=K2hRQgUAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" aria-label="Google Scholar"><i class="fab fa-google"></i></a>
+                <a href="https://scholar.google.com/citations?hl=en&user=K2hRQgUAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" aria-label="Google Scholar"><i class="fas fa-graduation-cap"></i></a>
                 <a href="https://x.com/ZhiruoW" target="_blank" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
                 <a href="https://www.linkedin.com/in/zorazrw" target="_blank" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a>
                 <a href="https://github.com/zorazrw" target="_blank" aria-label="GitHub"><i class="fab fa-github"></i></a>
@@ -43,14 +33,24 @@
         </div>
     </section>
 
+    <!-- Top Banner with Navigation Links -->
+    <header class="banner">
+        <nav class="navbar">
+            <a href="index.html" class="nav-link">Home</a>
+            <a href="talks.html" class="nav-link">Talks</a>
+            <a href="people.html" class="nav-link">People</a>
+            <a href="files/zora_cv_2024.pdf" class="nav-link">CV</a>
+            <a href="faq.html" class="nav-link">FAQ</a>
+        </nav>
+    </header>
+
     <!-- Brief Intro Paragraph -->
     <section id="about" class="section">
-        <h2>About Me</h2>
         <p>
             I am currently a PhD student at the Language Technologies Institute at Carnegie Mellon University working with <a href="https://dpfried.github.io/">Daniel Fried</a> and <a href="https://www.phontron.com/">Graham Neubig</a>. My primary research interest is to use programmatic approaches to solve real-world tasks. Particularly, I am working on:
         </p>
         <details>
-            <summary><b>Computer-Use Agents for Work</b></summary>
+            <summary>&nbsp;&nbsp;<b>Computer-Use Agents for Work</b></summary>
             <ol>
               <li>Study "<a href="https://arxiv.org/abs/2510.22780">How AI agents do human work?</a>"</li>
               <li>Induce and analyze ai and human workflows across jobs <a href="https://github.com/zorazrw/workflow-induction-toolkit">[workflow induction toolkit]</a></li>
@@ -58,7 +58,7 @@
             </ol>
         </details>
         <details>
-            <summary><b>Memory- and Skill-Adaptive Agents</b></summary>
+            <summary>&nbsp;&nbsp;<b>Memory- and Skill-Adaptive Agents</b></summary>
             <ol>
               <li>Digital agents that learns navigation workflows in memory <a href="https://arxiv.org/abs/2409.07429">[AWM]</a> and specialized skills as actuators <a href="https://arxiv.org/abs/2504.06821">[ASI]</a> <a href="https://arxiv.org/abs/2504.07079">[SkillWeaver]</a></li>
               <li>Build verifiable and efficient toolboxes for math, data analysis, and visual reasoning tasks <a href="https://arxiv.org/abs/2401.12869">[TroVE]</a></li>
@@ -66,7 +66,7 @@
             </ol>
         </details>
         <details>
-            <summary><b>Augmented Language Models</b></summary>
+            <summary>&nbsp;&nbsp;<b>Augmented Language Models</b></summary>
             <ol>
               <li>Tools <a href="https://arxiv.org/pdf/2403.15452">[Survey]</a>: designed by human experts <a href="https://arxiv.org/pdf/2501.00912">[AutoPresent]</a> or LMs <a href="https://arxiv.org/abs/2401.12869">[TroVE]</a>; their behaviors to under-specified queries and execution failures <a href="https://arxiv.org/abs/2503.14227">[Fail-TaLMs]</a></li>
               <li>Programs: Challenging benchmarks for open domain <a href="https://arxiv.org/abs/2212.10481">[ODEX]</a>, multilingual <a href="https://arxiv.org/abs/2203.08388">[MCoNaLa]</a>, and data science <a href="https://arxiv.org/abs/2108.06712">[HiTab]</a> problems; Performant code LMs <a href="https://arxiv.org/abs/2305.06161">[StarCoder]</a> <a href="https://arxiv.org/pdf/2407.14044">[ECCO]</a> with <a href="https://code-rag-bench.github.io/">[Code RAG]</a>, assistive <a href="https://arxiv.org/abs/2310.14687">[APIs]</a>, and libraries in <a href="https://openreview.net/pdf?id=ZTCxT2t2Ru">[DocPrompting]</a></li>
