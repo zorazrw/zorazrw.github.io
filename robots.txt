@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zorazrw.github.io/sitemap.xml
