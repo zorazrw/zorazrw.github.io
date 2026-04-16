@@ -383,18 +383,18 @@ footer {
 }
 
 .students-row .name {
-    flex: 1;
+    flex: 1.2;
     font-weight: 600;
     color: #1a1a1a;
 }
 
 .students-row .program {
-    flex: 2;
+    flex: 1.8;
     color: #333;
 }
 
 .students-row .duration {
-    flex: 1;
+    flex: 1.2;
     color: #666;
     text-align: right;
 }
